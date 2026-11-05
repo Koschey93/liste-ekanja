@@ -46,7 +46,16 @@ jobs:
           npm ci
           npm run build
 
+      - name: Skip deploy (Cloudflare secrets not set yet)
+        if: env.CF_TOKEN == ''
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: echo "::notice::Built OK. Add CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID secrets to enable deploys."
+
       - name: Deploy to Cloudflare Pages
+        if: env.CF_TOKEN != ''
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
