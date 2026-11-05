@@ -1,0 +1,3262 @@
+[
+ {
+  "Id": 732,
+  "Naziv": "24-satna impedanca za djecu"
+ },
+ {
+  "Id": 733,
+  "Naziv": "24-satna pHmetrija za djecu"
+ },
+ {
+  "Id": 1608,
+  "Naziv": "AB indeks"
+ },
+ {
+  "Id": 861,
+  "Naziv": "Abdominalna kirurgija - elektivni zahvati"
+ },
+ {
+  "Id": 863,
+  "Naziv": "Abdominalna kirurgija - malignomi"
+ },
+ {
+  "Id": 862,
+  "Naziv": "Abdominalna kirurgija - nemaligne bolesti"
+ },
+ {
+  "Id": 791,
+  "Naziv": "Adaptometrija"
+ },
+ {
+  "Id": 937,
+  "Naziv": "Akrilatne grizne ploče "
+ },
+ {
+  "Id": 1230,
+  "Naziv": "Akupunktura"
+ },
+ {
+  "Id": 16,
+  "Naziv": "Alergologija i klinička imunologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1389,
+  "Naziv": "Alergologija i klinička imunologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 15,
+  "Naziv": "Alergologija i klinička imunologija - Prvi pregled"
+ },
+ {
+  "Id": 765,
+  "Naziv": "Alergološki kožni testovi na lijekove, opnokrilce i cijepiva za djecu"
+ },
+ {
+  "Id": 450,
+  "Naziv": "Alergotest na alimentarne alergene"
+ },
+ {
+  "Id": 763,
+  "Naziv": "Alergotest na alimentarne alergene za djecu"
+ },
+ {
+  "Id": 449,
+  "Naziv": "Alergotest na inhalatorne alergene"
+ },
+ {
+  "Id": 764,
+  "Naziv": "Alergotest na standardne inhalatorne alergene za djecu"
+ },
+ {
+  "Id": 453,
+  "Naziv": "Algologija - kontrolni pregled"
+ },
+ {
+  "Id": 452,
+  "Naziv": "Algologija - prvi pregled"
+ },
+ {
+  "Id": 1397,
+  "Naziv": "Alkoholizam i druge ovisnosti - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 967,
+  "Naziv": "Alveotomija"
+ },
+ {
+  "Id": 1345,
+  "Naziv": "Ambulanta za bol - konzultacije bez pacijenta"
+ },
+ {
+  "Id": 1444,
+  "Naziv": "Analitička toksikologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 455,
+  "Naziv": "Andrologija - kontrolni pregled"
+ },
+ {
+  "Id": 1418,
+  "Naziv": "Andrologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 454,
+  "Naziv": "Andrologija - prvi pregled"
+ },
+ {
+  "Id": 102,
+  "Naziv": "Anesteziologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1263,
+  "Naziv": "Anesteziologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1103,
+  "Naziv": "Anesteziologija - ostali postupci"
+ },
+ {
+  "Id": 101,
+  "Naziv": "Anesteziologija - Prvi pregled"
+ },
+ {
+  "Id": 436,
+  "Naziv": "Angiolog - kontrolni pregled"
+ },
+ {
+  "Id": 435,
+  "Naziv": "Angiolog - prvi pregled"
+ },
+ {
+  "Id": 736,
+  "Naziv": "Anorektalna manometrija za djecu"
+ },
+ {
+  "Id": 484,
+  "Naziv": "Aortokoronarna venozna premosnica"
+ },
+ {
+  "Id": 965,
+  "Naziv": "Apikotomija"
+ },
+ {
+  "Id": 795,
+  "Naziv": "Artroskopija gležnja"
+ },
+ {
+  "Id": 487,
+  "Naziv": "Artroskopija koljena"
+ },
+ {
+  "Id": 798,
+  "Naziv": "Artroskopija kuka"
+ },
+ {
+  "Id": 797,
+  "Naziv": "Artroskopija ramena"
+ },
+ {
+  "Id": 796,
+  "Naziv": "Artroskopija ručnog zgloba"
+ },
+ {
+  "Id": 89,
+  "Naziv": "Audiologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1426,
+  "Naziv": "Audiologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 88,
+  "Naziv": "Audiologija - Prvi pregled"
+ },
+ {
+  "Id": 1398,
+  "Naziv": "Biologijska psihijatrija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 789,
+  "Naziv": "Biometrija"
+ },
+ {
+  "Id": 731,
+  "Naziv": "Biopsija jetre djece"
+ },
+ {
+  "Id": 723,
+  "Naziv": "Biopsija kože"
+ },
+ {
+  "Id": 1696,
+  "Naziv": "Brahiterapija - ambulantno"
+ },
+ {
+  "Id": 1695,
+  "Naziv": "Brahiterapija - stacionar"
+ },
+ {
+  "Id": 710,
+  "Naziv": "Bris uretre na HPV virus"
+ },
+ {
+  "Id": 738,
+  "Naziv": "Bronhoprovokacijski test metakolinom za djecu"
+ },
+ {
+  "Id": 575,
+  "Naziv": "Bronhoskopija"
+ },
+ {
+  "Id": 1505,
+  "Naziv": "Citološka analiza urina"
+ },
+ {
+  "Id": 1043,
+  "Naziv": "Citološka punkcija tvorbe mekog tkiva"
+ },
+ {
+  "Id": 933,
+  "Naziv": "CT abdomena "
+ },
+ {
+  "Id": 932,
+  "Naziv": "CT abdomena i zdjelice "
+ },
+ {
+  "Id": 883,
+  "Naziv": "CT angiografija abdomena"
+ },
+ {
+  "Id": 931,
+  "Naziv": "CT angiografija abdominalne aorte"
+ },
+ {
+  "Id": 930,
+  "Naziv": "CT angiografija abdominalne aorte i zdjeličnih arterija"
+ },
+ {
+  "Id": 929,
+  "Naziv": "CT angiografija donjih ekstremiteta"
+ },
+ {
+  "Id": 928,
+  "Naziv": "CT angiografija glave i/ili vrata"
+ },
+ {
+  "Id": 927,
+  "Naziv": "CT angiografija gornjih ekstremiteta"
+ },
+ {
+  "Id": 882,
+  "Naziv": "CT angiografija kralježnice"
+ },
+ {
+  "Id": 884,
+  "Naziv": "CT angiografija prsnog koša"
+ },
+ {
+  "Id": 926,
+  "Naziv": "CT aorte "
+ },
+ {
+  "Id": 925,
+  "Naziv": "CT aortografija ili kavografija"
+ },
+ {
+  "Id": 886,
+  "Naziv": "CT biligrafija"
+ },
+ {
+  "Id": 924,
+  "Naziv": "CT bronhoskopija"
+ },
+ {
+  "Id": 923,
+  "Naziv": "CT calcium scoring"
+ },
+ {
+  "Id": 922,
+  "Naziv": "CT cervikalne kralježnice "
+ },
+ {
+  "Id": 921,
+  "Naziv": "CT cistografija"
+ },
+ {
+  "Id": 881,
+  "Naziv": "CT dentascan"
+ },
+ {
+  "Id": 885,
+  "Naziv": "CT fistulografija"
+ },
+ {
+  "Id": 920,
+  "Naziv": "CT gležnja"
+ },
+ {
+  "Id": 919,
+  "Naziv": "CT irigografija"
+ },
+ {
+  "Id": 918,
+  "Naziv": "CT kolonoskopija"
+ },
+ {
+  "Id": 917,
+  "Naziv": "CT koljena"
+ },
+ {
+  "Id": 916,
+  "Naziv": "CT koronarografija"
+ },
+ {
+  "Id": 915,
+  "Naziv": "CT kostiju glave "
+ },
+ {
+  "Id": 914,
+  "Naziv": "CT kostiju lica "
+ },
+ {
+  "Id": 913,
+  "Naziv": "CT lakta "
+ },
+ {
+  "Id": 912,
+  "Naziv": "CT lumbosakralne kralježnice "
+ },
+ {
+  "Id": 911,
+  "Naziv": "CT mekih tkiva vrata "
+ },
+ {
+  "Id": 910,
+  "Naziv": "CT mijelografija"
+ },
+ {
+  "Id": 115,
+  "Naziv": "CT mozga"
+ },
+ {
+  "Id": 909,
+  "Naziv": "CT mozga sa stereotaksijom"
+ },
+ {
+  "Id": 908,
+  "Naziv": "CT nadlaktice "
+ },
+ {
+  "Id": 907,
+  "Naziv": "CT natkoljenice"
+ },
+ {
+  "Id": 906,
+  "Naziv": "CT neuronavigacija"
+ },
+ {
+  "Id": 905,
+  "Naziv": "CT orbita "
+ },
+ {
+  "Id": 904,
+  "Naziv": "CT paranazalnih sinusa "
+ },
+ {
+  "Id": 887,
+  "Naziv": "CT pasaža"
+ },
+ {
+  "Id": 903,
+  "Naziv": "CT perfuzija"
+ },
+ {
+  "Id": 902,
+  "Naziv": "CT piramida"
+ },
+ {
+  "Id": 901,
+  "Naziv": "CT podlaktice "
+ },
+ {
+  "Id": 900,
+  "Naziv": "CT potkoljenice "
+ },
+ {
+  "Id": 899,
+  "Naziv": "CT prsnog koša "
+ },
+ {
+  "Id": 898,
+  "Naziv": "CT pulmonalna angiografija"
+ },
+ {
+  "Id": 897,
+  "Naziv": "CT ramenog zgloba "
+ },
+ {
+  "Id": 896,
+  "Naziv": "CT ručnog zgloba "
+ },
+ {
+  "Id": 895,
+  "Naziv": "CT srednjeg uha i temporalne kosti "
+ },
+ {
+  "Id": 894,
+  "Naziv": "CT stopala "
+ },
+ {
+  "Id": 893,
+  "Naziv": "CT šake "
+ },
+ {
+  "Id": 892,
+  "Naziv": "CT torakalne kralježnice "
+ },
+ {
+  "Id": 891,
+  "Naziv": "CT toraksa i abdomena "
+ },
+ {
+  "Id": 890,
+  "Naziv": "CT toraksa, abdomena i zdjelice "
+ },
+ {
+  "Id": 889,
+  "Naziv": "CT urografija"
+ },
+ {
+  "Id": 888,
+  "Naziv": "CT zdjelice "
+ },
+ {
+  "Id": 1135,
+  "Naziv": "CT zgloba kuka"
+ },
+ {
+  "Id": 788,
+  "Naziv": "Dakriocistorinostomija"
+ },
+ {
+  "Id": 554,
+  "Naziv": "Defektologija - Kontrolni pregled"
+ },
+ {
+  "Id": 553,
+  "Naziv": "Defektologija - Prvi pregled"
+ },
+ {
+  "Id": 108,
+  "Naziv": "Dentalna patologija i endodoncija - Kontrolni pregled"
+ },
+ {
+  "Id": 1266,
+  "Naziv": "Dentalna patologija i endodoncija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1106,
+  "Naziv": "Dentalna patologija i endodoncija - ostali postupci"
+ },
+ {
+  "Id": 107,
+  "Naziv": "Dentalna patologija i endodoncija - Prvi pregled"
+ },
+ {
+  "Id": 938,
+  "Naziv": "Dentalna protektika - kontrolni pregled"
+ },
+ {
+  "Id": 939,
+  "Naziv": "Dentalna protektika - prvi pregled"
+ },
+ {
+  "Id": 564,
+  "Naziv": "Denzitometrija"
+ },
+ {
+  "Id": 467,
+  "Naziv": "Dermatologija - kontrolni pregled"
+ },
+ {
+  "Id": 466,
+  "Naziv": "Dermatologija - prvi pregled"
+ },
+ {
+  "Id": 1248,
+  "Naziv": "Dermatologija i venerologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1088,
+  "Naziv": "Dermatologija i venerologija - ostali postupci"
+ },
+ {
+  "Id": 465,
+  "Naziv": "Dermatološka onkologija - kontrolni pregled"
+ },
+ {
+  "Id": 1391,
+  "Naziv": "Dermatološka onkologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 464,
+  "Naziv": "Dermatološka onkologija - prvi pregled"
+ },
+ {
+  "Id": 565,
+  "Naziv": "Dermatoskopija"
+ },
+ {
+  "Id": 62,
+  "Naziv": "Digestivna (abdominalna) kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1412,
+  "Naziv": "Digestivna (abdominalna) kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 61,
+  "Naziv": "Digestivna (abdominalna) kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 457,
+  "Naziv": "Dijabetologija - kontrolni pregled"
+ },
+ {
+  "Id": 1325,
+  "Naziv": "Dijabetologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 456,
+  "Naziv": "Dijabetologija - prvi pregled"
+ },
+ {
+  "Id": 36,
+  "Naziv": "Dječja i adolescentna psihijatrija - Kontrolni pregled"
+ },
+ {
+  "Id": 1396,
+  "Naziv": "Dječja i adolescentna psihijatrija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 35,
+  "Naziv": "Dječja i adolescentna psihijatrija - Prvi pregled"
+ },
+ {
+  "Id": 70,
+  "Naziv": "Dječja kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1255,
+  "Naziv": "Dječja kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1095,
+  "Naziv": "Dječja kirurgija - ostali postupci"
+ },
+ {
+  "Id": 69,
+  "Naziv": "Dječja kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 584,
+  "Naziv": "Dječja oftalmologija - kontrolni pregled"
+ },
+ {
+  "Id": 583,
+  "Naziv": "Dječja oftalmologija - prvi pregled"
+ },
+ {
+  "Id": 1430,
+  "Naziv": "Dječja oftalmologija i strabologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 85,
+  "Naziv": "Dječja ortopedija - Kontrolni pregled"
+ },
+ {
+  "Id": 1423,
+  "Naziv": "Dječja ortopedija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 84,
+  "Naziv": "Dječja ortopedija - Prvi pregled"
+ },
+ {
+  "Id": 1440,
+  "Naziv": "Dječja stomatologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1203,
+  "Naziv": "Dječja stomatologija - ostali postupci"
+ },
+ {
+  "Id": 1465,
+  "Naziv": "DJELATNOSTI POLIKLINIČKO-KONZILIJARNE ZDRAVSTVENE ZAŠTITE - generalni kontakt ustanova"
+ },
+ {
+  "Id": 1466,
+  "Naziv": "DJELATNOSTI STACIONARNE ZDRAVSTVENE ZAŠTITE - generalni kontakt ustanova"
+ },
+ {
+  "Id": 1214,
+  "Naziv": "Dnevna bolnica - endokrinologija"
+ },
+ {
+  "Id": 1215,
+  "Naziv": "Dnevna bolnica - hematologija"
+ },
+ {
+  "Id": 1216,
+  "Naziv": "Dnevna bolnica - imunologija"
+ },
+ {
+  "Id": 1217,
+  "Naziv": "Dnevna bolnica - infektologija"
+ },
+ {
+  "Id": 1218,
+  "Naziv": "Dnevna bolnica - internistička"
+ },
+ {
+  "Id": 1219,
+  "Naziv": "Dnevna bolnica - internistička onkologija"
+ },
+ {
+  "Id": 1220,
+  "Naziv": "Dnevna bolnica - kirurgija"
+ },
+ {
+  "Id": 1221,
+  "Naziv": "Dnevna bolnica - nefrologija"
+ },
+ {
+  "Id": 1222,
+  "Naziv": "Dnevna bolnica - neurologija"
+ },
+ {
+  "Id": 1223,
+  "Naziv": "Dnevna bolnica - oftalmologija"
+ },
+ {
+  "Id": 1224,
+  "Naziv": "Dnevna bolnica - onkologija"
+ },
+ {
+  "Id": 1225,
+  "Naziv": "Dnevna bolnica - ORL"
+ },
+ {
+  "Id": 1226,
+  "Naziv": "Dnevna bolnica - ortopedija"
+ },
+ {
+  "Id": 1227,
+  "Naziv": "Dnevna bolnica - pedijatrija"
+ },
+ {
+  "Id": 1228,
+  "Naziv": "Dnevna bolnica - psihijatrija"
+ },
+ {
+  "Id": 1229,
+  "Naziv": "Dnevna bolnica - urologija"
+ },
+ {
+  "Id": 953,
+  "Naziv": "Dojka (onkologija) - kontrolni pregled"
+ },
+ {
+  "Id": 961,
+  "Naziv": "Dojka (onkologija) - prvi pregled"
+ },
+ {
+  "Id": 1209,
+  "Naziv": "Dugotrajno liječenje - ostali postupci"
+ },
+ {
+  "Id": 745,
+  "Naziv": "Edukacija za čistu intermitentnu kateterizaciju za djecu"
+ },
+ {
+  "Id": 446,
+  "Naziv": "EEG - Elektroencefalografija"
+ },
+ {
+  "Id": 730,
+  "Naziv": "EEG - nakon neprospavane noći za djecu"
+ },
+ {
+  "Id": 1037,
+  "Naziv": "EEG - nakon neprospavane noći za odraslog"
+ },
+ {
+  "Id": 1038,
+  "Naziv": "EEG - nakon parcijalne deprivacije spavanja"
+ },
+ {
+  "Id": 1048,
+  "Naziv": "EEG - poligrafija"
+ },
+ {
+  "Id": 476,
+  "Naziv": "EKG"
+ },
+ {
+  "Id": 722,
+  "Naziv": "Ekscizija kožne lezije"
+ },
+ {
+  "Id": 714,
+  "Naziv": "Ekspozicijski test na lijekove"
+ },
+ {
+  "Id": 966,
+  "Naziv": "Ekstrakcija"
+ },
+ {
+  "Id": 721,
+  "Naziv": "Elektrokoagulacija kožne lezije"
+ },
+ {
+  "Id": 787,
+  "Naziv": "Elektrookulografija"
+ },
+ {
+  "Id": 786,
+  "Naziv": "Elektroretinografija "
+ },
+ {
+  "Id": 725,
+  "Naziv": "Elektroretinografija za djecu"
+ },
+ {
+  "Id": 442,
+  "Naziv": "EMG - Elektromiografija"
+ },
+ {
+  "Id": 443,
+  "Naziv": "EMNG - Elektromioneurografija"
+ },
+ {
+  "Id": 726,
+  "Naziv": "EMNG - Elektromioneurografija za djecu"
+ },
+ {
+  "Id": 18,
+  "Naziv": "Endokrinologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1305,
+  "Naziv": "Endokrinologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 17,
+  "Naziv": "Endokrinologija - Prvi pregled"
+ },
+ {
+  "Id": 848,
+  "Naziv": "Endokrinološka kirurgija – kontrolni pregled"
+ },
+ {
+  "Id": 852,
+  "Naziv": "Endokrinološka kirurgija – prvi pregled"
+ },
+ {
+  "Id": 1019,
+  "Naziv": "Endoskopija ORL"
+ },
+ {
+  "Id": 716,
+  "Naziv": "Epikutani alergotest"
+ },
+ {
+  "Id": 445,
+  "Naziv": "Ergometrija "
+ },
+ {
+  "Id": 758,
+  "Naziv": "Ergometrija za djecu"
+ },
+ {
+  "Id": 739,
+  "Naziv": "Ergospirometrija za djecu"
+ },
+ {
+  "Id": 471,
+  "Naziv": "Farmakologija - kontrolni pregled"
+ },
+ {
+  "Id": 470,
+  "Naziv": "Farmakologija - prvi pregled"
+ },
+ {
+  "Id": 448,
+  "Naziv": "FENO test"
+ },
+ {
+  "Id": 741,
+  "Naziv": "FENO test - frakcija izdahnutog NO za djecu"
+ },
+ {
+  "Id": 1698,
+  "Naziv": "Fetalna ehokardiografija"
+ },
+ {
+  "Id": 1433,
+  "Naziv": "Fetalna medicina i opstetricija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 28,
+  "Naziv": "Fizikalna medicina i rehabilitacija - Kontrolni pregled"
+ },
+ {
+  "Id": 1249,
+  "Naziv": "Fizikalna medicina i rehabilitacija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1089,
+  "Naziv": "Fizikalna medicina i rehabilitacija - ostali postupci"
+ },
+ {
+  "Id": 27,
+  "Naziv": "Fizikalna medicina i rehabilitacija - Prvi pregled"
+ },
+ {
+  "Id": 589,
+  "Naziv": "Fluoresceinska angiografija retine"
+ },
+ {
+  "Id": 91,
+  "Naziv": "Fonijatrija - Kontrolni pregled"
+ },
+ {
+  "Id": 1447,
+  "Naziv": "Fonijatrija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 90,
+  "Naziv": "Fonijatrija - Prvi pregled"
+ },
+ {
+  "Id": 1394,
+  "Naziv": "Forenzička psihijatrija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 718,
+  "Naziv": "Fotodinamska terapija kožnih lezija"
+ },
+ {
+  "Id": 785,
+  "Naziv": "Fotografiranje očne pozadine"
+ },
+ {
+  "Id": 717,
+  "Naziv": "Fototerapija kožnih bolesti"
+ },
+ {
+  "Id": 8,
+  "Naziv": "Gastroenterologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1326,
+  "Naziv": "Gastroenterologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 7,
+  "Naziv": "Gastroenterologija - Prvi pregled"
+ },
+ {
+  "Id": 949,
+  "Naziv": "Gastrointestinalno sijelo (onkologija) - kontrolni pregled"
+ },
+ {
+  "Id": 957,
+  "Naziv": "Gastrointestinalno sijelo (onkologija) - prvi pregled"
+ },
+ {
+  "Id": 481,
+  "Naziv": "Gastroskopija"
+ },
+ {
+  "Id": 735,
+  "Naziv": "Gastroskopija za djecu"
+ },
+ {
+  "Id": 1702,
+  "Naziv": "Gerijatrija - kontrolni pregled"
+ },
+ {
+  "Id": 1701,
+  "Naziv": "Gerijatrija - prvi pregled"
+ },
+ {
+  "Id": 1262,
+  "Naziv": "Ginekologija i opstetricija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1102,
+  "Naziv": "Ginekologija i opstetricija - ostali postupci"
+ },
+ {
+  "Id": 459,
+  "Naziv": "Ginekologija opća - kontrolni pregled"
+ },
+ {
+  "Id": 458,
+  "Naziv": "Ginekologija opća - prvi pregled"
+ },
+ {
+  "Id": 98,
+  "Naziv": "Ginekološka onkologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1435,
+  "Naziv": "Ginekološka onkologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 97,
+  "Naziv": "Ginekološka onkologija - Prvi pregled"
+ },
+ {
+  "Id": 951,
+  "Naziv": "Ginekološko sijelo (onkologija) - kontrolni pregled"
+ },
+ {
+  "Id": 959,
+  "Naziv": "Ginekološko sijelo (onkologija) - prvi pregled"
+ },
+ {
+  "Id": 567,
+  "Naziv": "Glaukom - kontrolni pregled"
+ },
+ {
+  "Id": 566,
+  "Naziv": "Glaukom - prvi pregled"
+ },
+ {
+  "Id": 1431,
+  "Naziv": "Glaukomatologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 947,
+  "Naziv": "Glava i vrat (onkologija) - kontrolni pregled"
+ },
+ {
+  "Id": 955,
+  "Naziv": "Glava i vrat (onkologija) - prvi pregled"
+ },
+ {
+  "Id": 12,
+  "Naziv": "Hematologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1387,
+  "Naziv": "Hematologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 11,
+  "Naziv": "Hematologija - Prvi pregled"
+ },
+ {
+  "Id": 1446,
+  "Naziv": "Hemodijaliza - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1206,
+  "Naziv": "Hemodijaliza - ostali postupci"
+ },
+ {
+  "Id": 438,
+  "Naziv": "Hernija preponska - operacija"
+ },
+ {
+  "Id": 647,
+  "Naziv": "Hiperbarična oksigenoterapija"
+ },
+ {
+  "Id": 1202,
+  "Naziv": "Hiperbarična oksigenoterapija - ostali postupci"
+ },
+ {
+  "Id": 1201,
+  "Naziv": "Hitna medicina (OHBP) - ostali postupci"
+ },
+ {
+  "Id": 483,
+  "Naziv": "Holter EKG"
+ },
+ {
+  "Id": 444,
+  "Naziv": "Holter tlaka (KMAT)"
+ },
+ {
+  "Id": 562,
+  "Naziv": "Hormoni štitnjače (T3, T4, TSH)"
+ },
+ {
+  "Id": 96,
+  "Naziv": "Humana reprodukcija - Kontrolni pregled"
+ },
+ {
+  "Id": 1434,
+  "Naziv": "Humana reprodukcija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 95,
+  "Naziv": "Humana reprodukcija - Prvi pregled"
+ },
+ {
+  "Id": 705,
+  "Naziv": "Imunofluorescencijske pretrage kože"
+ },
+ {
+  "Id": 463,
+  "Naziv": "Infektologija - kontrolni pregled"
+ },
+ {
+  "Id": 1246,
+  "Naziv": "Infektologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1086,
+  "Naziv": "Infektologija - ostali postupci"
+ },
+ {
+  "Id": 462,
+  "Naziv": "Infektologija - prvi pregled"
+ },
+ {
+  "Id": 866,
+  "Naziv": "Infuzijska urografija"
+ },
+ {
+  "Id": 2,
+  "Naziv": "Interna medicina - Kontrolni pregled"
+ },
+ {
+  "Id": 1245,
+  "Naziv": "Interna medicina - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1085,
+  "Naziv": "Interna medicina - ostali postupci"
+ },
+ {
+  "Id": 1,
+  "Naziv": "Interna medicina - Prvi pregled"
+ },
+ {
+  "Id": 20,
+  "Naziv": "Internistička  onkologija - Kontrolni pregled"
+ },
+ {
+  "Id": 19,
+  "Naziv": "Internistička  onkologija - Prvi pregled"
+ },
+ {
+  "Id": 1328,
+  "Naziv": "Internistička onkologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 948,
+  "Naziv": "Intratorakalno sijelo (onkologija) - kontrolni pregled"
+ },
+ {
+  "Id": 956,
+  "Naziv": "Intratorakalno sijelo (onkologija) - prvi pregled"
+ },
+ {
+  "Id": 790,
+  "Naziv": "Intravitrealna injekcija"
+ },
+ {
+  "Id": 784,
+  "Naziv": "Ispitivanje kolornog vida "
+ },
+ {
+  "Id": 700,
+  "Naziv": "IVF/IVCSI sekundarni"
+ },
+ {
+  "Id": 702,
+  "Naziv": "IVF/IVCSI u stimuliranom ciklusu-blagi protokol"
+ },
+ {
+  "Id": 701,
+  "Naziv": "IVF/IVCSI u stimuliranom ciklusu-standardni protokol"
+ },
+ {
+  "Id": 64,
+  "Naziv": "Kardijalna kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1413,
+  "Naziv": "Kardijalna kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 63,
+  "Naziv": "Kardijalna kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 572,
+  "Naziv": "Kardiologija - aritmije srca - kontrolni pregled"
+ },
+ {
+  "Id": 571,
+  "Naziv": "Kardiologija - aritmije srca - prvi pregled"
+ },
+ {
+  "Id": 574,
+  "Naziv": "Kardiologija - hipertenzija - kontrolni pregled"
+ },
+ {
+  "Id": 573,
+  "Naziv": "Kardiologija - hipertenzija - prvi pregled"
+ },
+ {
+  "Id": 4,
+  "Naziv": "Kardiologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1385,
+  "Naziv": "Kardiologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 3,
+  "Naziv": "Kardiologija - Prvi pregled"
+ },
+ {
+  "Id": 94,
+  "Naziv": "Katarakta - operacija"
+ },
+ {
+  "Id": 944,
+  "Naziv": "Kemoterapija - ambulantna"
+ },
+ {
+  "Id": 856,
+  "Naziv": "Kemoterapija - hospitalna"
+ },
+ {
+  "Id": 851,
+  "Naziv": "Kirurgija dojke – kontrolni pregled"
+ },
+ {
+  "Id": 855,
+  "Naziv": "Kirurgija dojke – prvi pregled"
+ },
+ {
+  "Id": 849,
+  "Naziv": "Kirurgija paratireoidnih žlijezda – kontrolni pregled"
+ },
+ {
+  "Id": 853,
+  "Naziv": "Kirurgija paratireoidnih žlijezda – prvi pregled"
+ },
+ {
+  "Id": 850,
+  "Naziv": "Kirurgija štitnjače – kontrolni pregled"
+ },
+ {
+  "Id": 854,
+  "Naziv": "Kirurgija štitnjače – prvi pregled"
+ },
+ {
+  "Id": 1429,
+  "Naziv": "Kirurgija vjeđa i orbite - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1416,
+  "Naziv": "Kirurška onkologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1273,
+  "Naziv": "Klinička citologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1113,
+  "Naziv": "Klinička citologija - ostali postupci"
+ },
+ {
+  "Id": 1252,
+  "Naziv": "Klinička farmakologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1437,
+  "Naziv": "Klinička farmakologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1092,
+  "Naziv": "Klinička farmakologija - ostali postupci"
+ },
+ {
+  "Id": 1438,
+  "Naziv": "Klinička psihologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 482,
+  "Naziv": "Kolonoskopija"
+ },
+ {
+  "Id": 1146,
+  "Naziv": "Kolonoskopija u sklopu nacionalnih preventivnih programa"
+ },
+ {
+  "Id": 734,
+  "Naziv": "Kolonoskopija za djecu"
+ },
+ {
+  "Id": 577,
+  "Naziv": "Konaktne leće - prvi pregled"
+ },
+ {
+  "Id": 578,
+  "Naziv": "Kontaktne leće - kontrolni pregled "
+ },
+ {
+  "Id": 1666,
+  "Naziv": "Kontrastna mamografija"
+ },
+ {
+  "Id": 985,
+  "Naziv": "Kontrolni pregled pacijenta u ortodontskoj terapiji"
+ },
+ {
+  "Id": 809,
+  "Naziv": "Kontrolni pregled psihologa za djecu"
+ },
+ {
+  "Id": 836,
+  "Naziv": "Kontrolni pregled za bolesti metabolizma - poremećaj lipida"
+ },
+ {
+  "Id": 485,
+  "Naziv": "Koronarografija"
+ },
+ {
+  "Id": 720,
+  "Naziv": "Krioterapija kožne lezije"
+ },
+ {
+  "Id": 1211,
+  "Naziv": "Kronične dječje bolesti - ostali postupci"
+ },
+ {
+  "Id": 1210,
+  "Naziv": "Kronične duševne bolesti - ostali postupci"
+ },
+ {
+  "Id": 1212,
+  "Naziv": "Kronične plućne bolesti - ostali postupci"
+ },
+ {
+  "Id": 782,
+  "Naziv": "Laserska fotokoagulacija retine - jedno oko"
+ },
+ {
+  "Id": 1031,
+  "Naziv": "Logopedija - kompleksna  terapija"
+ },
+ {
+  "Id": 550,
+  "Naziv": "Logopedija - kontrolni pregled"
+ },
+ {
+  "Id": 1439,
+  "Naziv": "Logopedija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 549,
+  "Naziv": "Logopedija - prvi pregled"
+ },
+ {
+  "Id": 1032,
+  "Naziv": "Logopedija - savjetovanje u rehabilitaciji"
+ },
+ {
+  "Id": 1045,
+  "Naziv": "Logopedija - složena obrada"
+ },
+ {
+  "Id": 1030,
+  "Naziv": "Logopedska terapija kod odraslog"
+ },
+ {
+  "Id": 807,
+  "Naziv": "Logopedska terapija za djecu"
+ },
+ {
+  "Id": 74,
+  "Naziv": "Maksilofacijalna kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1257,
+  "Naziv": "Maksilofacijalna kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1011,
+  "Naziv": "Maksilofacijalna kirurgija - mali zahvat"
+ },
+ {
+  "Id": 1097,
+  "Naziv": "Maksilofacijalna kirurgija - ostali postupci"
+ },
+ {
+  "Id": 73,
+  "Naziv": "Maksilofacijalna kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 1009,
+  "Naziv": "Maksilofacijalna kirurgija - srednje velik zahvat u lokalnoj anesteziji "
+ },
+ {
+  "Id": 1010,
+  "Naziv": "Maksilofacijalna kirurgija - srednje velik zahvat u općoj anesteziji "
+ },
+ {
+  "Id": 962,
+  "Naziv": "Mali oralnokirurški zahvati na mekim i tvrdim tkivima"
+ },
+ {
+  "Id": 964,
+  "Naziv": "Mali oralnokirurški zahvati na mekim tkivima"
+ },
+ {
+  "Id": 963,
+  "Naziv": "Mali oralnokirurški zahvati na tvrdim tkivima"
+ },
+ {
+  "Id": 474,
+  "Naziv": "Mamografija"
+ },
+ {
+  "Id": 1147,
+  "Naziv": "Mamografija u sklopu nacionalnih preventivnih programa"
+ },
+ {
+  "Id": 1274,
+  "Naziv": "Medicinska biokemija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1114,
+  "Naziv": "Medicinska biokemija - ostali postupci"
+ },
+ {
+  "Id": 1407,
+  "Naziv": "Medicinska genetika - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1443,
+  "Naziv": "Medicinska mikrobiologija s parazitologijom - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1204,
+  "Naziv": "Medicinska mikrobiologija s parazitologijom - ostali postupci"
+ },
+ {
+  "Id": 709,
+  "Naziv": "Mikološka pretraga kože"
+ },
+ {
+  "Id": 834,
+  "Naziv": "Mjerenje očnog tlaka"
+ },
+ {
+  "Id": 498,
+  "Naziv": "MR abdomena "
+ },
+ {
+  "Id": 532,
+  "Naziv": "MR angiografija abdomena"
+ },
+ {
+  "Id": 534,
+  "Naziv": "MR angiografija donjih okrajina"
+ },
+ {
+  "Id": 526,
+  "Naziv": "MR angiografija gornjeg ekstremiteta"
+ },
+ {
+  "Id": 524,
+  "Naziv": "MR angiografija i karakterizacija plakova krvnih žila "
+ },
+ {
+  "Id": 529,
+  "Naziv": "MR angiografija kralježnice"
+ },
+ {
+  "Id": 527,
+  "Naziv": "MR angiografija prsnoga koša"
+ },
+ {
+  "Id": 530,
+  "Naziv": "MR angiografija spinalnog kanala"
+ },
+ {
+  "Id": 525,
+  "Naziv": "MR angiografija vrata "
+ },
+ {
+  "Id": 533,
+  "Naziv": "MR angiografija zdjelice"
+ },
+ {
+  "Id": 531,
+  "Naziv": "MR aortografija ili kavografija"
+ },
+ {
+  "Id": 518,
+  "Naziv": "MR artrografija"
+ },
+ {
+  "Id": 519,
+  "Naziv": "MR artroskopija"
+ },
+ {
+  "Id": 507,
+  "Naziv": "MR bubrega "
+ },
+ {
+  "Id": 116,
+  "Naziv": "MR cervikalne kralježnice"
+ },
+ {
+  "Id": 496,
+  "Naziv": "MR dojke "
+ },
+ {
+  "Id": 515,
+  "Naziv": "MR donjih ekstremiteta"
+ },
+ {
+  "Id": 521,
+  "Naziv": "MR fetusa"
+ },
+ {
+  "Id": 514,
+  "Naziv": "MR gornjih ekstremiteta "
+ },
+ {
+  "Id": 502,
+  "Naziv": "MR gušterače "
+ },
+ {
+  "Id": 592,
+  "Naziv": "MR hipofize"
+ },
+ {
+  "Id": 752,
+  "Naziv": "MR jačine 3T"
+ },
+ {
+  "Id": 517,
+  "Naziv": "MR jednog velikog zgloba"
+ },
+ {
+  "Id": 500,
+  "Naziv": "MR jetre "
+ },
+ {
+  "Id": 501,
+  "Naziv": "MR kolangiopankreatografija"
+ },
+ {
+  "Id": 505,
+  "Naziv": "MR kolonografija s enteroklizom"
+ },
+ {
+  "Id": 504,
+  "Naziv": "MR kolonoskopija"
+ },
+ {
+  "Id": 1233,
+  "Naziv": "MR koljena"
+ },
+ {
+  "Id": 528,
+  "Naziv": "MR koronarografija"
+ },
+ {
+  "Id": 492,
+  "Naziv": "MR kostiju glave"
+ },
+ {
+  "Id": 118,
+  "Naziv": "MR lumbosakralne kralježnice"
+ },
+ {
+  "Id": 1606,
+  "Naziv": "MR medijastinuma"
+ },
+ {
+  "Id": 513,
+  "Naziv": "MR mekih tkiva "
+ },
+ {
+  "Id": 523,
+  "Naziv": "MR mijelografija"
+ },
+ {
+  "Id": 488,
+  "Naziv": "MR mozga "
+ },
+ {
+  "Id": 1131,
+  "Naziv": "MR mozga s angiografijom mozga"
+ },
+ {
+  "Id": 1134,
+  "Naziv": "MR mozga s TOF angiografijom"
+ },
+ {
+  "Id": 1132,
+  "Naziv": "MR mozga sa spektroskopijom"
+ },
+ {
+  "Id": 1133,
+  "Naziv": "MR mozga za GAMMA KNIFE"
+ },
+ {
+  "Id": 508,
+  "Naziv": "MR nadbubrežne žlijezde "
+ },
+ {
+  "Id": 520,
+  "Naziv": "MR neonatusa"
+ },
+ {
+  "Id": 490,
+  "Naziv": "MR orbita "
+ },
+ {
+  "Id": 499,
+  "Naziv": "MR organa gornjeg abdomena "
+ },
+ {
+  "Id": 511,
+  "Naziv": "MR organa zdjelice "
+ },
+ {
+  "Id": 491,
+  "Naziv": "MR paranazalnih sinusa "
+ },
+ {
+  "Id": 489,
+  "Naziv": "MR piramida temporalne kosti"
+ },
+ {
+  "Id": 512,
+  "Naziv": "MR prostate "
+ },
+ {
+  "Id": 495,
+  "Naziv": "MR prsnoga koša "
+ },
+ {
+  "Id": 509,
+  "Naziv": "MR retroperitoneuma s prikazom limfnih čvorova "
+ },
+ {
+  "Id": 493,
+  "Naziv": "MR sijalografija"
+ },
+ {
+  "Id": 503,
+  "Naziv": "MR slezene "
+ },
+ {
+  "Id": 522,
+  "Naziv": "MR spektroskopija koštane srži"
+ },
+ {
+  "Id": 497,
+  "Naziv": "MR srca"
+ },
+ {
+  "Id": 516,
+  "Naziv": "MR stopala ili šake "
+ },
+ {
+  "Id": 117,
+  "Naziv": "MR torakalne kralježnice"
+ },
+ {
+  "Id": 506,
+  "Naziv": "MR urografija "
+ },
+ {
+  "Id": 494,
+  "Naziv": "MR vrata "
+ },
+ {
+  "Id": 510,
+  "Naziv": "MR zdjelice"
+ },
+ {
+  "Id": 968,
+  "Naziv": "Nagrizna udlaga/palatinalna ploča"
+ },
+ {
+  "Id": 833,
+  "Naziv": "Naočale - određivanje dioptrije"
+ },
+ {
+  "Id": 986,
+  "Naziv": "Nastavak terapije novom napravom"
+ },
+ {
+  "Id": 10,
+  "Naziv": "Nefrologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1386,
+  "Naziv": "Nefrologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 9,
+  "Naziv": "Nefrologija - Prvi pregled"
+ },
+ {
+  "Id": 72,
+  "Naziv": "Neurokirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1256,
+  "Naziv": "Neurokirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1096,
+  "Naziv": "Neurokirurgija - ostali postupci"
+ },
+ {
+  "Id": 71,
+  "Naziv": "Neurokirurgija - Prvi pregled"
+ },
+ {
+  "Id": 570,
+  "Naziv": "Neurologija - glavobolje - kontrolni pregled"
+ },
+ {
+  "Id": 569,
+  "Naziv": "Neurologija - glavobolje - prvi pregled"
+ },
+ {
+  "Id": 32,
+  "Naziv": "Neurologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1250,
+  "Naziv": "Neurologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1090,
+  "Naziv": "Neurologija - ostali postupci"
+ },
+ {
+  "Id": 31,
+  "Naziv": "Neurologija - Prvi pregled"
+ },
+ {
+  "Id": 586,
+  "Naziv": "Neurooftalmologija - kontrolni pregled"
+ },
+ {
+  "Id": 1432,
+  "Naziv": "Neurooftalmologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 585,
+  "Naziv": "Neurooftalmologija - prvi pregled"
+ },
+ {
+  "Id": 1029,
+  "Naziv": "Nistagmografija"
+ },
+ {
+  "Id": 1050,
+  "Naziv": "Nuklearna medicina - hospitalizacija"
+ },
+ {
+  "Id": 120,
+  "Naziv": "Nuklearna medicina - Kontrolni pregled"
+ },
+ {
+  "Id": 1271,
+  "Naziv": "Nuklearna medicina - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1111,
+  "Naziv": "Nuklearna medicina - ostali postupci"
+ },
+ {
+  "Id": 119,
+  "Naziv": "Nuklearna medicina - Prvi pregled"
+ },
+ {
+  "Id": 1486,
+  "Naziv": "Nutricionistična/Dijetetička obrada - Kontrolni pregled"
+ },
+ {
+  "Id": 1485,
+  "Naziv": "Nutricionistična/Dijetetička obrada - Prvi pregled"
+ },
+ {
+  "Id": 781,
+  "Naziv": "OCT (optička koherentna tomografija)"
+ },
+ {
+  "Id": 568,
+  "Naziv": "Oftalmokirurgija - mali zahvat"
+ },
+ {
+  "Id": 93,
+  "Naziv": "Oftalmologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1261,
+  "Naziv": "Oftalmologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1101,
+  "Naziv": "Oftalmologija - ostali postupci"
+ },
+ {
+  "Id": 92,
+  "Naziv": "Oftalmologija - Prvi pregled"
+ },
+ {
+  "Id": 588,
+  "Naziv": "Oftalmoplastika i bolesti orbite - kontrolni pregled"
+ },
+ {
+  "Id": 587,
+  "Naziv": "Oftalmoplastika i bolesti orbite - prvi pregled"
+ },
+ {
+  "Id": 1247,
+  "Naziv": "Onkologija i radioterapija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1087,
+  "Naziv": "Onkologija i radioterapija - ostali postupci"
+ },
+ {
+  "Id": 845,
+  "Naziv": "Opća kirurgija - elektivni zahvati"
+ },
+ {
+  "Id": 56,
+  "Naziv": "Opća kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1254,
+  "Naziv": "Opća kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 847,
+  "Naziv": "Opća kirurgija - malignomi"
+ },
+ {
+  "Id": 846,
+  "Naziv": "Opća kirurgija - nemaligne bolesti"
+ },
+ {
+  "Id": 1094,
+  "Naziv": "Opća kirurgija - ostali postupci"
+ },
+ {
+  "Id": 55,
+  "Naziv": "Opća kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 1208,
+  "Naziv": "Opći stacionar u skzz - ostali postupci"
+ },
+ {
+  "Id": 780,
+  "Naziv": "Operacija ablacije retine - konvencionalna"
+ },
+ {
+  "Id": 779,
+  "Naziv": "Operacija strabizma"
+ },
+ {
+  "Id": 806,
+  "Naziv": "Operacije ligamenata zgloba koljena"
+ },
+ {
+  "Id": 805,
+  "Naziv": "Operacije natkoljenice"
+ },
+ {
+  "Id": 804,
+  "Naziv": "Operacije potkoljenice"
+ },
+ {
+  "Id": 800,
+  "Naziv": "Operacije šake i podlaktice"
+ },
+ {
+  "Id": 803,
+  "Naziv": "Operacije zgloba gležnja i stopala"
+ },
+ {
+  "Id": 801,
+  "Naziv": "Operacije zgloba lakta"
+ },
+ {
+  "Id": 802,
+  "Naziv": "Operacije zgloba ramena i nadlaktice"
+ },
+ {
+  "Id": 461,
+  "Naziv": "Opstetricija - kontrolni pregled"
+ },
+ {
+  "Id": 460,
+  "Naziv": "Opstetricija - prvi pregled"
+ },
+ {
+  "Id": 114,
+  "Naziv": "Oralna kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1269,
+  "Naziv": "Oralna kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1109,
+  "Naziv": "Oralna kirurgija - ostali postupci"
+ },
+ {
+  "Id": 113,
+  "Naziv": "Oralna kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 110,
+  "Naziv": "Oralna patologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1267,
+  "Naziv": "Oralna patologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1107,
+  "Naziv": "Oralna patologija - ostali postupci"
+ },
+ {
+  "Id": 109,
+  "Naziv": "Oralna patologija - Prvi pregled"
+ },
+ {
+  "Id": 1005,
+  "Naziv": "ORL - srednje velik zahvat u lokalnoj anesteziji "
+ },
+ {
+  "Id": 1006,
+  "Naziv": "ORL - srednje velik zahvat u općoj anesteziji "
+ },
+ {
+  "Id": 106,
+  "Naziv": "Ortodoncija - Kontrolni pregled"
+ },
+ {
+  "Id": 1265,
+  "Naziv": "Ortodoncija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1105,
+  "Naziv": "Ortodoncija - ostali postupci"
+ },
+ {
+  "Id": 105,
+  "Naziv": "Ortodoncija - Prvi pregled"
+ },
+ {
+  "Id": 870,
+  "Naziv": "Ortopan"
+ },
+ {
+  "Id": 78,
+  "Naziv": "Ortopedija - Kontrolni pregled"
+ },
+ {
+  "Id": 1259,
+  "Naziv": "Ortopedija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1099,
+  "Naziv": "Ortopedija - ostali postupci"
+ },
+ {
+  "Id": 77,
+  "Naziv": "Ortopedija - Prvi pregled"
+ },
+ {
+  "Id": 778,
+  "Naziv": "Ortoptičko-pleoptičke vježbe"
+ },
+ {
+  "Id": 946,
+  "Naziv": "Ostala sijela i rijetki tumori (onkologija) - kontrolni pregled"
+ },
+ {
+  "Id": 954,
+  "Naziv": "Ostala sijela i rijetki tumori (onkologija) - prvi pregled"
+ },
+ {
+  "Id": 87,
+  "Naziv": "Otorinolaringologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1260,
+  "Naziv": "Otorinolaringologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1051,
+  "Naziv": "Otorinolaringologija - mali zahvat"
+ },
+ {
+  "Id": 1100,
+  "Naziv": "Otorinolaringologija - ostali postupci"
+ },
+ {
+  "Id": 86,
+  "Naziv": "Otorinolaringologija - Prvi pregled"
+ },
+ {
+  "Id": 1049,
+  "Naziv": "Pacemaker - kontrola"
+ },
+ {
+  "Id": 1213,
+  "Naziv": "Palijativna skrb - ostali postupci"
+ },
+ {
+  "Id": 708,
+  "Naziv": "Parazitološka pretraga kože"
+ },
+ {
+  "Id": 112,
+  "Naziv": "Parodontologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1268,
+  "Naziv": "Parodontologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1108,
+  "Naziv": "Parodontologija - ostali postupci"
+ },
+ {
+  "Id": 111,
+  "Naziv": "Parodontologija - Prvi pregled"
+ },
+ {
+  "Id": 704,
+  "Naziv": "Patohistološka analiza kožne lezije"
+ },
+ {
+  "Id": 1445,
+  "Naziv": "Patohistološka dijagnostika - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1205,
+  "Naziv": "Patohistološka dijagnostika - ostali postupci"
+ },
+ {
+  "Id": 1507,
+  "Naziv": "PCR testiranje na COVID-19"
+ },
+ {
+  "Id": 38,
+  "Naziv": "Pedijatrija - Kontrolni pregled"
+ },
+ {
+  "Id": 1253,
+  "Naziv": "Pedijatrija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1093,
+  "Naziv": "Pedijatrija - ostali postupci"
+ },
+ {
+  "Id": 37,
+  "Naziv": "Pedijatrija - Prvi pregled"
+ },
+ {
+  "Id": 1408,
+  "Naziv": "Pedijatrijska alergologija i klinička imunologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 54,
+  "Naziv": "Pedijatrijska alergologija/imunologija - Kontrolni pregled"
+ },
+ {
+  "Id": 53,
+  "Naziv": "Pedijatrijska alergologija/imunologija - Prvi pregled"
+ },
+ {
+  "Id": 556,
+  "Naziv": "Pedijatrijska algologija - Kontrolni pregled"
+ },
+ {
+  "Id": 555,
+  "Naziv": "Pedijatrijska algologija - Prvi pregled"
+ },
+ {
+  "Id": 548,
+  "Naziv": "Pedijatrijska bolesti metabolizma - kontrolni pregled"
+ },
+ {
+  "Id": 26,
+  "Naziv": "Pedijatrijska dermatologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1390,
+  "Naziv": "Pedijatrijska dermatologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 25,
+  "Naziv": "Pedijatrijska dermatologija - Prvi pregled"
+ },
+ {
+  "Id": 546,
+  "Naziv": "Pedijatrijska dijabetologija - kontrolni pregled"
+ },
+ {
+  "Id": 545,
+  "Naziv": "Pedijatrijska dijabetologija - prvi pregled"
+ },
+ {
+  "Id": 557,
+  "Naziv": "Pedijatrijska EEG - Elektroencefalografija"
+ },
+ {
+  "Id": 50,
+  "Naziv": "Pedijatrijska endokrinologija - Kontrolni pregled"
+ },
+ {
+  "Id": 49,
+  "Naziv": "Pedijatrijska endokrinologija - Prvi pregled"
+ },
+ {
+  "Id": 1441,
+  "Naziv": "Pedijatrijska endokrinologija, dijabetes i bolesti metabolizma - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 629,
+  "Naziv": "Pedijatrijska farmakologija - kontrolni pregled"
+ },
+ {
+  "Id": 626,
+  "Naziv": "Pedijatrijska farmakologija - prvi pregled"
+ },
+ {
+  "Id": 46,
+  "Naziv": "Pedijatrijska gastroenterologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1403,
+  "Naziv": "Pedijatrijska gastroenterologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 45,
+  "Naziv": "Pedijatrijska gastroenterologija - Prvi pregled"
+ },
+ {
+  "Id": 630,
+  "Naziv": "Pedijatrijska genetika - kontrolni pregled"
+ },
+ {
+  "Id": 627,
+  "Naziv": "Pedijatrijska genetika - prvi pregled"
+ },
+ {
+  "Id": 1405,
+  "Naziv": "Pedijatrijska hematologija i onkologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 52,
+  "Naziv": "Pedijatrijska hematologija/onkologija - Kontrolni pregled"
+ },
+ {
+  "Id": 51,
+  "Naziv": "Pedijatrijska hematologija/onkologija - Prvi pregled"
+ },
+ {
+  "Id": 559,
+  "Naziv": "Pedijatrijska i adolescentna ginekologija - Kontrolni pregled"
+ },
+ {
+  "Id": 558,
+  "Naziv": "Pedijatrijska i adolescentna ginekologija - Prvi pregled"
+ },
+ {
+  "Id": 40,
+  "Naziv": "Pedijatrijska kardiologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1400,
+  "Naziv": "Pedijatrijska kardiologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 39,
+  "Naziv": "Pedijatrijska kardiologija - Prvi pregled"
+ },
+ {
+  "Id": 1442,
+  "Naziv": "Pedijatrijska klinička farmakologija i toksikologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 44,
+  "Naziv": "Pedijatrijska nefrologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1402,
+  "Naziv": "Pedijatrijska nefrologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 43,
+  "Naziv": "Pedijatrijska nefrologija - Prvi pregled"
+ },
+ {
+  "Id": 1406,
+  "Naziv": "Pedijatrijska neonatologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 42,
+  "Naziv": "Pedijatrijska neurologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1401,
+  "Naziv": "Pedijatrijska neurologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 41,
+  "Naziv": "Pedijatrijska neurologija - Prvi pregled"
+ },
+ {
+  "Id": 48,
+  "Naziv": "Pedijatrijska pulmologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1404,
+  "Naziv": "Pedijatrijska pulmologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 47,
+  "Naziv": "Pedijatrijska pulmologija - Prvi pregled"
+ },
+ {
+  "Id": 631,
+  "Naziv": "Pedijatrijska reumatologija - kontrolni pregled"
+ },
+ {
+  "Id": 1409,
+  "Naziv": "Pedijatrijska reumatologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 628,
+  "Naziv": "Pedijatrijska reumatologija - prvi pregled"
+ },
+ {
+  "Id": 547,
+  "Naziv": "Pedijatrijske bolesti metabolizma - prvi pregled"
+ },
+ {
+  "Id": 633,
+  "Naziv": "Pedijatrijski EKG"
+ },
+ {
+  "Id": 1285,
+  "Naziv": "Pedijatrijski gastroenterološki UZV"
+ },
+ {
+  "Id": 634,
+  "Naziv": "Pedijatrijski holter EKG"
+ },
+ {
+  "Id": 635,
+  "Naziv": "Pedijatrijski holter tlaka (KMAT)"
+ },
+ {
+  "Id": 632,
+  "Naziv": "Pedijatrijski UZV abdomena"
+ },
+ {
+  "Id": 777,
+  "Naziv": "Perimetrija (vidno polje) jednog oka"
+ },
+ {
+  "Id": 1125,
+  "Naziv": "PET/CT"
+ },
+ {
+  "Id": 858,
+  "Naziv": "Plastična i rekonstruktivna kirurgija - elektivni zahvati"
+ },
+ {
+  "Id": 860,
+  "Naziv": "Plastična i rekonstruktivna kirurgija - malignomi"
+ },
+ {
+  "Id": 859,
+  "Naziv": "Plastična i rekonstruktivna kirurgija - nemaligne bolesti"
+ },
+ {
+  "Id": 66,
+  "Naziv": "Plastična kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1414,
+  "Naziv": "Plastična kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 65,
+  "Naziv": "Plastična kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 1417,
+  "Naziv": "Plastična kirurgija glave i vrata - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1425,
+  "Naziv": "Plastična kirurgija glave i vrata - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 970,
+  "Naziv": "Početak ortodontske terapije"
+ },
+ {
+  "Id": 724,
+  "Naziv": "Poligrafija za djecu"
+ },
+ {
+  "Id": 1231,
+  "Naziv": "Polisomnografija"
+ },
+ {
+  "Id": 582,
+  "Naziv": "Prednji očni segment - Kontrolni pregled"
+ },
+ {
+  "Id": 581,
+  "Naziv": "Prednji očni segment - Prvi pregled"
+ },
+ {
+  "Id": 1427,
+  "Naziv": "Prednji segment oka - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 713,
+  "Naziv": "Previjanje rane - flebologija"
+ },
+ {
+  "Id": 715,
+  "Naziv": "Prick-test (alergologija)"
+ },
+ {
+  "Id": 1165,
+  "Naziv": "Program Love Your Heart"
+ },
+ {
+  "Id": 440,
+  "Naziv": "Prostata - TURP"
+ },
+ {
+  "Id": 792,
+  "Naziv": "Prostata specifični antigen - PSA"
+ },
+ {
+  "Id": 934,
+  "Naziv": "Proteza - podlaganje"
+ },
+ {
+  "Id": 936,
+  "Naziv": "Proteza - reokluzija"
+ },
+ {
+  "Id": 935,
+  "Naziv": "Proteza - reparatura"
+ },
+ {
+  "Id": 762,
+  "Naziv": "Provokacijski testovi na alergene za djecu"
+ },
+ {
+  "Id": 810,
+  "Naziv": "Prvi pregled psihologa za djecu"
+ },
+ {
+  "Id": 835,
+  "Naziv": "Prvi pregled za bolesti metabolizma - poremećaj lipida"
+ },
+ {
+  "Id": 827,
+  "Naziv": "Psihijatar - individualna psihoterapija"
+ },
+ {
+  "Id": 826,
+  "Naziv": "Psihijatar - pregled i površinska psihoterapija"
+ },
+ {
+  "Id": 825,
+  "Naziv": "Psihijatar - pregled i savjetovanje"
+ },
+ {
+  "Id": 34,
+  "Naziv": "Psihijatrija - Kontrolni pregled"
+ },
+ {
+  "Id": 1251,
+  "Naziv": "Psihijatrija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1091,
+  "Naziv": "Psihijatrija - ostali postupci"
+ },
+ {
+  "Id": 33,
+  "Naziv": "Psihijatrija - Prvi pregled"
+ },
+ {
+  "Id": 1040,
+  "Naziv": "Psiholog - grupna psihoterapija"
+ },
+ {
+  "Id": 831,
+  "Naziv": "Psiholog - individualna obrada"
+ },
+ {
+  "Id": 830,
+  "Naziv": "Psiholog - individualna psihoterapija"
+ },
+ {
+  "Id": 1041,
+  "Naziv": "Psiholog - rehabilitacija kognitivnih funkcija"
+ },
+ {
+  "Id": 829,
+  "Naziv": "Psiholog - savjetovanje"
+ },
+ {
+  "Id": 832,
+  "Naziv": "Psiholog - složena individualna obrada"
+ },
+ {
+  "Id": 552,
+  "Naziv": "Psihologija - Kontrolni pregled"
+ },
+ {
+  "Id": 551,
+  "Naziv": "Psihologija - Prvi pregled"
+ },
+ {
+  "Id": 1399,
+  "Naziv": "Psihoonkološka ambulanta - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1393,
+  "Naziv": "Psihoterapija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 828,
+  "Naziv": "Psihoterapija u grupi"
+ },
+ {
+  "Id": 808,
+  "Naziv": "Psihoterapija za djecu"
+ },
+ {
+  "Id": 6,
+  "Naziv": "Pulmologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1327,
+  "Naziv": "Pulmologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 5,
+  "Naziv": "Pulmologija - Prvi pregled"
+ },
+ {
+  "Id": 761,
+  "Naziv": "Punkcija koštane srži za djecu"
+ },
+ {
+  "Id": 760,
+  "Naziv": "Punkcija limfnog čvora za djecu"
+ },
+ {
+  "Id": 645,
+  "Naziv": "Punkcija zgloba za djecu"
+ },
+ {
+  "Id": 1270,
+  "Naziv": "Radiologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1110,
+  "Naziv": "Radiologija - ostali postupci"
+ },
+ {
+  "Id": 943,
+  "Naziv": "Radioterapija - CT simulacija"
+ },
+ {
+  "Id": 942,
+  "Naziv": "Radioterapija - klasična simulacija"
+ },
+ {
+  "Id": 22,
+  "Naziv": "Radioterapija i onkologija - Kontrolni pregled"
+ },
+ {
+  "Id": 21,
+  "Naziv": "Radioterapija i onkologija - Prvi pregled"
+ },
+ {
+  "Id": 940,
+  "Naziv": "Radioterapija na kobalt-bombi"
+ },
+ {
+  "Id": 1694,
+  "Naziv": "Radioterapija na linearnom akceleratoru - ambulantno"
+ },
+ {
+  "Id": 1693,
+  "Naziv": "Radioterapija na linearnom akceleratoru - stacionar"
+ },
+ {
+  "Id": 1036,
+  "Naziv": "Razvojna gimnastika"
+ },
+ {
+  "Id": 753,
+  "Naziv": "Rektoskopija"
+ },
+ {
+  "Id": 648,
+  "Naziv": "Reparacija umbilikalne hernije"
+ },
+ {
+  "Id": 1388,
+  "Naziv": "Reumatologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1392,
+  "Naziv": "Reumatologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 30,
+  "Naziv": "Reumatologija (Fizikalna medicina) - Kontrolni pregled"
+ },
+ {
+  "Id": 29,
+  "Naziv": "Reumatologija (Fizikalna medicina) - Prvi pregled"
+ },
+ {
+  "Id": 14,
+  "Naziv": "Reumatologija (Interna medicina) - Kontrolni pregled"
+ },
+ {
+  "Id": 13,
+  "Naziv": "Reumatologija (Interna medicina) - Prvi pregled"
+ },
+ {
+  "Id": 1207,
+  "Naziv": "Rodilište - ostali postupci"
+ },
+ {
+  "Id": 695,
+  "Naziv": "RTG abdomena stojeći"
+ },
+ {
+  "Id": 694,
+  "Naziv": "RTG baze lubanje"
+ },
+ {
+  "Id": 867,
+  "Naziv": "RTG cervikalne i lumbo sakralne kralježnice"
+ },
+ {
+  "Id": 692,
+  "Naziv": "RTG cervikalne kralježnice"
+ },
+ {
+  "Id": 691,
+  "Naziv": "RTG cervikalne kralježnice - funkcionalno"
+ },
+ {
+  "Id": 693,
+  "Naziv": "RTG cervikotorakalnog prijelaza"
+ },
+ {
+  "Id": 869,
+  "Naziv": "RTG cijele kralježnice"
+ },
+ {
+  "Id": 865,
+  "Naziv": "RTG glave - specijalna snimka"
+ },
+ {
+  "Id": 688,
+  "Naziv": "RTG gležnja"
+ },
+ {
+  "Id": 687,
+  "Naziv": "RTG grudnih organa"
+ },
+ {
+  "Id": 686,
+  "Naziv": "RTG grudnih organa ležeći"
+ },
+ {
+  "Id": 685,
+  "Naziv": "RTG hemitoraksa"
+ },
+ {
+  "Id": 684,
+  "Naziv": "RTG ključne kosti"
+ },
+ {
+  "Id": 683,
+  "Naziv": "RTG koljena"
+ },
+ {
+  "Id": 682,
+  "Naziv": "RTG kostiju lica"
+ },
+ {
+  "Id": 473,
+  "Naziv": "RTG kostiju u dvije projekcije"
+ },
+ {
+  "Id": 681,
+  "Naziv": "RTG kraniograma"
+ },
+ {
+  "Id": 680,
+  "Naziv": "RTG kraniograma - Towne"
+ },
+ {
+  "Id": 679,
+  "Naziv": "RTG kuka"
+ },
+ {
+  "Id": 678,
+  "Naziv": "RTG lakta"
+ },
+ {
+  "Id": 690,
+  "Naziv": "RTG lumbosakralne kralježnice"
+ },
+ {
+  "Id": 689,
+  "Naziv": "RTG lumbosakralne kralježnice - funkcionalno"
+ },
+ {
+  "Id": 677,
+  "Naziv": "RTG mandibule"
+ },
+ {
+  "Id": 868,
+  "Naziv": "RTG mastoida"
+ },
+ {
+  "Id": 676,
+  "Naziv": "RTG mekih tkiva vrata"
+ },
+ {
+  "Id": 675,
+  "Naziv": "RTG nadlaktice"
+ },
+ {
+  "Id": 674,
+  "Naziv": "RTG natkoljenice"
+ },
+ {
+  "Id": 673,
+  "Naziv": "RTG nosnih kostiju"
+ },
+ {
+  "Id": 672,
+  "Naziv": "RTG orbite"
+ },
+ {
+  "Id": 671,
+  "Naziv": "RTG paranazalnih sinusa"
+ },
+ {
+  "Id": 670,
+  "Naziv": "RTG patele"
+ },
+ {
+  "Id": 669,
+  "Naziv": "RTG petne kosti"
+ },
+ {
+  "Id": 864,
+  "Naziv": "RTG piramida po Stenversu"
+ },
+ {
+  "Id": 668,
+  "Naziv": "RTG podlaktice"
+ },
+ {
+  "Id": 667,
+  "Naziv": "RTG procjena koštane dobi - šaka"
+ },
+ {
+  "Id": 666,
+  "Naziv": "RTG prsta ruke"
+ },
+ {
+  "Id": 665,
+  "Naziv": "RTG ramena"
+ },
+ {
+  "Id": 664,
+  "Naziv": "RTG ručnog zgloba"
+ },
+ {
+  "Id": 662,
+  "Naziv": "RTG sakroilijakalnih zglobova"
+ },
+ {
+  "Id": 663,
+  "Naziv": "RTG sakruma i kokcigisa"
+ },
+ {
+  "Id": 661,
+  "Naziv": "RTG skafoidne kosti"
+ },
+ {
+  "Id": 660,
+  "Naziv": "RTG skalpule"
+ },
+ {
+  "Id": 472,
+  "Naziv": "RTG srca i pluća"
+ },
+ {
+  "Id": 659,
+  "Naziv": "RTG sternuma"
+ },
+ {
+  "Id": 658,
+  "Naziv": "RTG stopala"
+ },
+ {
+  "Id": 657,
+  "Naziv": "RTG šake"
+ },
+ {
+  "Id": 656,
+  "Naziv": "RTG temporalnih kostiju"
+ },
+ {
+  "Id": 655,
+  "Naziv": "RTG temporomandibularnih zglobova"
+ },
+ {
+  "Id": 654,
+  "Naziv": "RTG torakalne kralježnice"
+ },
+ {
+  "Id": 653,
+  "Naziv": "RTG turskog sedla"
+ },
+ {
+  "Id": 652,
+  "Naziv": "RTG urotrakta"
+ },
+ {
+  "Id": 651,
+  "Naziv": "RTG zdjelice"
+ },
+ {
+  "Id": 650,
+  "Naziv": "RTG zigomatičnih kostiju"
+ },
+ {
+  "Id": 719,
+  "Naziv": "RTG zračenje kožne lezije"
+ },
+ {
+  "Id": 871,
+  "Naziv": "RTG zuba"
+ },
+ {
+  "Id": 1024,
+  "Naziv": "SEP (slušni evocirani potencijali) kod djeteta"
+ },
+ {
+  "Id": 1025,
+  "Naziv": "SEP (slušni evocirani potencijali) kod odraslog"
+ },
+ {
+  "Id": 969,
+  "Naziv": "Skijaskopija"
+ },
+ {
+  "Id": 712,
+  "Naziv": "Sklerozacija vena"
+ },
+ {
+  "Id": 711,
+  "Naziv": "Sklerozacija vena pjenom"
+ },
+ {
+  "Id": 1012,
+  "Naziv": "Skolioza - operacija"
+ },
+ {
+  "Id": 1013,
+  "Naziv": "Sluh - jednostavno ispitivanje kod djeteta"
+ },
+ {
+  "Id": 1014,
+  "Naziv": "Sluh - jednostavno ispitivanje kod odraslog"
+ },
+ {
+  "Id": 1015,
+  "Naziv": "Sluh - složeno ispitivanje kod djeteta"
+ },
+ {
+  "Id": 1016,
+  "Naziv": "Sluh - složeno ispitivanje kod odraslog"
+ },
+ {
+  "Id": 1017,
+  "Naziv": "Slušanje - funkcionalna dijagnostika"
+ },
+ {
+  "Id": 1023,
+  "Naziv": "Slušanje i govor - vježbe"
+ },
+ {
+  "Id": 1044,
+  "Naziv": "Slušno pomagalo - prilagodba"
+ },
+ {
+  "Id": 1018,
+  "Naziv": "Slušno pomagalo - provjera funkcionalnosti "
+ },
+ {
+  "Id": 1395,
+  "Naziv": "Socijalna psihijatrija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 776,
+  "Naziv": "Spekularna mikroskopija"
+ },
+ {
+  "Id": 1607,
+  "Naziv": "Spermiogram"
+ },
+ {
+  "Id": 475,
+  "Naziv": "Spirometrija"
+ },
+ {
+  "Id": 740,
+  "Naziv": "Spirometrija za djecu"
+ },
+ {
+  "Id": 775,
+  "Naziv": "Srednje zahtjevan oftalmokirurški zahvat u lokalnoj anesteziji"
+ },
+ {
+  "Id": 774,
+  "Naziv": "Srednje zahtjevan oftalmokirurški zahvat u općoj anesteziji"
+ },
+ {
+  "Id": 1033,
+  "Naziv": "Stabilometrija kod djeteta"
+ },
+ {
+  "Id": 1034,
+  "Naziv": "Stabilometrija kod odraslog"
+ },
+ {
+  "Id": 1232,
+  "Naziv": "Stacionarna rehabilitacija"
+ },
+ {
+  "Id": 104,
+  "Naziv": "Stomatološka protetika - Kontrolni pregled"
+ },
+ {
+  "Id": 1264,
+  "Naziv": "Stomatološka protetika - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1104,
+  "Naziv": "Stomatološka protetika - ostali postupci"
+ },
+ {
+  "Id": 103,
+  "Naziv": "Stomatološka protetika - Prvi pregled"
+ },
+ {
+  "Id": 580,
+  "Naziv": "Stražnji očni segment - kontrolni pregled"
+ },
+ {
+  "Id": 579,
+  "Naziv": "Stražnji očni segment - prvi pregled"
+ },
+ {
+  "Id": 1428,
+  "Naziv": "Stražnji segment oka - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1508,
+  "Naziv": "Stručna procjena radi ostvarivanja statusa HRVI"
+ },
+ {
+  "Id": 1605,
+  "Naziv": "Sveobuhvatno gensko profiliranje tumora - kruta biopsija"
+ },
+ {
+  "Id": 1665,
+  "Naziv": "Sveobuhvatno gensko profiliranje tumora - tekuća biopsija"
+ },
+ {
+  "Id": 728,
+  "Naziv": "TCCD - transkarnijski color doppler krvnih žila mozga za djecu"
+ },
+ {
+  "Id": 1039,
+  "Naziv": "TCCD (transkranijski kolor dopler) kod odraslog"
+ },
+ {
+  "Id": 773,
+  "Naziv": "Teleskopske naočale - određivanje"
+ },
+ {
+  "Id": 783,
+  "Naziv": "Test na dvoslike"
+ },
+ {
+  "Id": 757,
+  "Naziv": "Test ortostatskog opterećenja za djecu"
+ },
+ {
+  "Id": 1026,
+  "Naziv": "TOAE (otoakustička emisija) kod djeteta"
+ },
+ {
+  "Id": 1027,
+  "Naziv": "TOAE (otoakustička emisija) kod odraslog"
+ },
+ {
+  "Id": 439,
+  "Naziv": "Tonzile - operacija"
+ },
+ {
+  "Id": 60,
+  "Naziv": "Torakalna kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1411,
+  "Naziv": "Torakalna kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 59,
+  "Naziv": "Torakalna kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 576,
+  "Naziv": "Traheoskopija"
+ },
+ {
+  "Id": 1488,
+  "Naziv": "Transfuzijska medicina - Kontrolni pregled"
+ },
+ {
+  "Id": 1272,
+  "Naziv": "Transfuzijska medicina - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1112,
+  "Naziv": "Transfuzijska medicina - ostali postupci"
+ },
+ {
+  "Id": 1487,
+  "Naziv": "Transfuzijska medicina - Prvi pregled"
+ },
+ {
+  "Id": 879,
+  "Naziv": "Transplantacija amnijske membrane"
+ },
+ {
+  "Id": 1419,
+  "Naziv": "Transplantacija bubrega - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 880,
+  "Naziv": "Transplantacija rožnice"
+ },
+ {
+  "Id": 1410,
+  "Naziv": "Traumatologija - kirurška - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 58,
+  "Naziv": "Traumatologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1424,
+  "Naziv": "Traumatologija - ortopedska - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 57,
+  "Naziv": "Traumatologija - Prvi pregled"
+ },
+ {
+  "Id": 772,
+  "Naziv": "Trepanotrabekulektomija (operacija glaukoma)"
+ },
+ {
+  "Id": 707,
+  "Naziv": "Trihogram"
+ },
+ {
+  "Id": 83,
+  "Naziv": "Ugradnja djelomične endoproteze koljena"
+ },
+ {
+  "Id": 80,
+  "Naziv": "Ugradnja parcijalne endoproteze kuka"
+ },
+ {
+  "Id": 82,
+  "Naziv": "Ugradnja totalne endoproteze koljena"
+ },
+ {
+  "Id": 79,
+  "Naziv": "Ugradnja totalne endoproteze kuka"
+ },
+ {
+  "Id": 1021,
+  "Naziv": "Umjetna pužnica - kontrolna prilagodba procesora govora"
+ },
+ {
+  "Id": 1022,
+  "Naziv": "Umjetna pužnica - provjera funkcionalnosti procesora govora"
+ },
+ {
+  "Id": 1020,
+  "Naziv": "Umjetna pužnica - prva prilagodba procesora govora"
+ },
+ {
+  "Id": 1008,
+  "Naziv": "Urinski kateter - promjena"
+ },
+ {
+  "Id": 1420,
+  "Naziv": "Urodinamika i neurourologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 750,
+  "Naziv": "Urodinamika za djecu - invazivna"
+ },
+ {
+  "Id": 749,
+  "Naziv": "Urodinamika za djecu - neinvazivna"
+ },
+ {
+  "Id": 1007,
+  "Naziv": "Uroflow"
+ },
+ {
+  "Id": 748,
+  "Naziv": "Uroflow za djecu"
+ },
+ {
+  "Id": 952,
+  "Naziv": "Urogenitalno sijelo (onkologija) - kontrolni pregled"
+ },
+ {
+  "Id": 960,
+  "Naziv": "Urogenitalno sijelo (onkologija) - prvi pregled"
+ },
+ {
+  "Id": 100,
+  "Naziv": "Uroginekologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1436,
+  "Naziv": "Uroginekologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 99,
+  "Naziv": "Uroginekologija - Prvi pregled"
+ },
+ {
+  "Id": 1421,
+  "Naziv": "Urolitijaza - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 76,
+  "Naziv": "Urologija - Kontrolni pregled"
+ },
+ {
+  "Id": 1258,
+  "Naziv": "Urologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 1098,
+  "Naziv": "Urologija - ostali postupci"
+ },
+ {
+  "Id": 75,
+  "Naziv": "Urologija - Prvi pregled"
+ },
+ {
+  "Id": 1422,
+  "Naziv": "Urološka onkologija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 746,
+  "Naziv": "Uroterapija i biofeedback za djecu"
+ },
+ {
+  "Id": 1506,
+  "Naziv": "Uzimanje aspiracijskih i eksfolijativnih materijala"
+ },
+ {
+  "Id": 1625,
+  "Naziv": "Uzimanje brisa za dijagnostiku hripavac"
+ },
+ {
+  "Id": 1449,
+  "Naziv": "Uzimanje uzoraka – mikrobiologija"
+ },
+ {
+  "Id": 1448,
+  "Naziv": "Uzimanje uzoraka – nuklearna medicina"
+ },
+ {
+  "Id": 1451,
+  "Naziv": "Uzimanje uzoraka – transfuziologija"
+ },
+ {
+  "Id": 1450,
+  "Naziv": "Uzimanje uzoraka za laboratorijske pretrage – medicinska biokemija"
+ },
+ {
+  "Id": 477,
+  "Naziv": "UZV abdomena"
+ },
+ {
+  "Id": 875,
+  "Naziv": "UZV color doppler arterija"
+ },
+ {
+  "Id": 876,
+  "Naziv": "UZV color doppler arterija i vena"
+ },
+ {
+  "Id": 486,
+  "Naziv": "UZV color doppler karotida"
+ },
+ {
+  "Id": 877,
+  "Naziv": "UZV color doppler karotida i VB sliva"
+ },
+ {
+  "Id": 873,
+  "Naziv": "UZV color doppler VB sliva i arterije subklavije"
+ },
+ {
+  "Id": 447,
+  "Naziv": "UZV color doppler vena"
+ },
+ {
+  "Id": 441,
+  "Naziv": "UZV dječjeg kuka"
+ },
+ {
+  "Id": 478,
+  "Naziv": "UZV dojke"
+ },
+ {
+  "Id": 1129,
+  "Naziv": "UZV doppler AVF dijaliza"
+ },
+ {
+  "Id": 1128,
+  "Naziv": "UZV doppler bubrežne arterije"
+ },
+ {
+  "Id": 1130,
+  "Naziv": "UZV doppler tkiva jetre"
+ },
+ {
+  "Id": 872,
+  "Naziv": "UZV lokomotornog sustava"
+ },
+ {
+  "Id": 747,
+  "Naziv": "UZV mokraćnog sustava za djecu"
+ },
+ {
+  "Id": 729,
+  "Naziv": "UZV mozga za djecu"
+ },
+ {
+  "Id": 646,
+  "Naziv": "UZV muskuloskeletnog sustava za djecu"
+ },
+ {
+  "Id": 771,
+  "Naziv": "UZV očne jabučice i orbite"
+ },
+ {
+  "Id": 698,
+  "Naziv": "UZV pazuha"
+ },
+ {
+  "Id": 1042,
+  "Naziv": "UZV površnih mekih tkiva"
+ },
+ {
+  "Id": 697,
+  "Naziv": "UZV prepona"
+ },
+ {
+  "Id": 874,
+  "Naziv": "UZV prostate"
+ },
+ {
+  "Id": 696,
+  "Naziv": "UZV slinovnica"
+ },
+ {
+  "Id": 480,
+  "Naziv": "UZV srca"
+ },
+ {
+  "Id": 759,
+  "Naziv": "UZV srca za djecu"
+ },
+ {
+  "Id": 563,
+  "Naziv": "UZV štitnjače"
+ },
+ {
+  "Id": 451,
+  "Naziv": "UZV testisa "
+ },
+ {
+  "Id": 1126,
+  "Naziv": "UZV transplantirane jetre"
+ },
+ {
+  "Id": 1127,
+  "Naziv": "UZV transplantiranog bubrega"
+ },
+ {
+  "Id": 649,
+  "Naziv": "UZV urološki"
+ },
+ {
+  "Id": 479,
+  "Naziv": "UZV vrata"
+ },
+ {
+  "Id": 68,
+  "Naziv": "Vaskularna kirurgija - Kontrolni pregled"
+ },
+ {
+  "Id": 1415,
+  "Naziv": "Vaskularna kirurgija - konzultacija bez pacijenta"
+ },
+ {
+  "Id": 67,
+  "Naziv": "Vaskularna kirurgija - Prvi pregled"
+ },
+ {
+  "Id": 706,
+  "Naziv": "VDRL i TPHA "
+ },
+ {
+  "Id": 1028,
+  "Naziv": "VEMP (vestibularni evocirani miogeni potencijali)"
+ },
+ {
+  "Id": 469,
+  "Naziv": "Venerologija - kontrolni pregled"
+ },
+ {
+  "Id": 468,
+  "Naziv": "Venerologija - prvi pregled"
+ },
+ {
+  "Id": 737,
+  "Naziv": "Ventolinski test za djecu"
+ },
+ {
+  "Id": 770,
+  "Naziv": "VEP (vidni evocirani potencijali)"
+ },
+ {
+  "Id": 1047,
+  "Naziv": "VEP (vidni evocirani potencijali) s kortikalnom kartografijom"
+ },
+ {
+  "Id": 1046,
+  "Naziv": "Verbotonalni postupci - posebni"
+ },
+ {
+  "Id": 1035,
+  "Naziv": "Vestibularne vježbe"
+ },
+ {
+  "Id": 727,
+  "Naziv": "Vidni evocirani potencijali (VEP) za djecu"
+ },
+ {
+  "Id": 769,
+  "Naziv": "Vitrektomija pars plana"
+ },
+ {
+  "Id": 768,
+  "Naziv": "Vitrektomijsko vađenje silikonskog ulja"
+ },
+ {
+  "Id": 767,
+  "Naziv": "YAG laserska iridotomija - jedno oko"
+ },
+ {
+  "Id": 766,
+  "Naziv": "YAG laserska kapsulotomija - jedno oko"
+ },
+ {
+  "Id": 878,
+  "Naziv": "Zamjena srčanog zaliska "
+ },
+ {
+  "Id": 81,
+  "Naziv": "Zamjena ugrađene endoproteze kuka"
+ },
+ {
+  "Id": 950,
+  "Naziv": "Živčani sustav (onkologija) - kontrolni pregled"
+ },
+ {
+  "Id": 958,
+  "Naziv": "Živčani sustav (onkologija) - prvi pregled"
+ },
+ {
+  "Id": 437,
+  "Naziv": "Žučnjak - laparoskopska operacija"
+ }
+]

@@ -1,0 +1,18 @@
+name = "termin-alerts"
+main = "src/index.ts"
+compatibility_date = "2025-06-01"
+
+# Run 40 min after the even hours: the GitHub Actions data refresh starts on the hour and takes ~10 min.
+[triggers]
+crons = ["40 */2 * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "termin-alerts"
+database_id = "00000000-0000-0000-0000-000000000000" # replace after `wrangler d1 create termin-alerts`
+
+[vars]
+SITE_URL = "http://localhost:5173"          # production: https://<your-domain>
+ALLOWED_ORIGIN = "http://localhost:5173"    # production: https://<your-domain>
+FROM_EMAIL = "Termin blizu <obavijesti@example.hr>"
+# secret: RESEND_API_KEY  (wrangler secret put RESEND_API_KEY). Without it, emails are only logged (dev mode).

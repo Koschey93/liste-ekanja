@@ -1,0 +1,54 @@
+name: Refresh data & deploy
+
+on:
+  schedule:
+    - cron: "5 */2 * * *" # every 2 hours (GitHub may delay scheduled runs by a few minutes)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scrape liste.cezih.hr
+        run: python pipeline/scrape.py --delay 0.5
+
+      - name: Build site data
+        run: python pipeline/build.py | tee build.log
+
+      - name: Warn about new uncurated locations
+        run: |
+          if grep -q "WARNING" build.log; then
+            echo "::warning::New locations without coordinates. Run pipeline/seed_locations.py locally and review geo/locations.csv."
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Build web
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy web/dist --project-name=termin-blizu --branch=main

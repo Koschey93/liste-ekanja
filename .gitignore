@@ -1,0 +1,10 @@
+node_modules/
+dist/
+pipeline/out/
+.wrangler/
+.dev.vars
+__pycache__/
+*.log
+research/data/geo_raw/
+web/public/data/
+pipeline/geo/raw/

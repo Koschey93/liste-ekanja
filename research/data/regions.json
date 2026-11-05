@@ -1,0 +1,82 @@
+[
+ {
+  "Id": "004",
+  "Naziv": "Bjelovarsko-bilogorska županija"
+ },
+ {
+  "Id": "080",
+  "Naziv": "Brodsko-posavska županija"
+ },
+ {
+  "Id": "018",
+  "Naziv": "Dubrovačko-neretvanska županija"
+ },
+ {
+  "Id": "065",
+  "Naziv": "Istarska županija"
+ },
+ {
+  "Id": "034",
+  "Naziv": "Karlovačka županija"
+ },
+ {
+  "Id": "037",
+  "Naziv": "Koprivničko-križevačka županija"
+ },
+ {
+  "Id": "040",
+  "Naziv": "Krapinsko-zagorska županija"
+ },
+ {
+  "Id": "026",
+  "Naziv": "Ličko-senjska županija"
+ },
+ {
+  "Id": "010",
+  "Naziv": "Međimurska županija"
+ },
+ {
+  "Id": "060",
+  "Naziv": "Osječko-baranjska županija"
+ },
+ {
+  "Id": "079",
+  "Naziv": "Požeško-slavonska županija"
+ },
+ {
+  "Id": "072",
+  "Naziv": "Primorsko-goranska županija"
+ },
+ {
+  "Id": "078",
+  "Naziv": "Sisačko-moslovačka županija"
+ },
+ {
+  "Id": "082",
+  "Naziv": "Splitsko-dalmatinska županija"
+ },
+ {
+  "Id": "083",
+  "Naziv": "Šibensko-kninska županija"
+ },
+ {
+  "Id": "088",
+  "Naziv": "Varaždinska županija"
+ },
+ {
+  "Id": "091",
+  "Naziv": "Virovitičko-podravska županija"
+ },
+ {
+  "Id": "090",
+  "Naziv": "Vukovarsko-srijemska županija"
+ },
+ {
+  "Id": "100",
+  "Naziv": "Zadarska županija"
+ },
+ {
+  "Id": "114",
+  "Naziv": "Zagrebačka županija i Grad Zagreb"
+ }
+]

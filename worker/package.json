@@ -1,0 +1,17 @@
+{
+  "name": "termin-alerts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --test-scheduled",
+    "db:local": "wrangler d1 execute termin-alerts --local --file=schema.sql",
+    "db:remote": "wrangler d1 execute termin-alerts --remote --file=schema.sql",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250604.0",
+    "typescript": "^5.8.3",
+    "wrangler": "^4.20.0"
+  }
+}

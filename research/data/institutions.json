@@ -1,0 +1,1462 @@
+[
+ {
+  "Id": 2441,
+  "Naziv": "BETAPLUS POLIKLINIKA ZA GINEKOLOGIJU PORODNIŠTVO I REPRODUKCIJSKU MEDICINU"
+ },
+ {
+  "Id": 321,
+  "Naziv": "DB Srebrnjak"
+ },
+ {
+  "Id": 1481,
+  "Naziv": "Dentalna poliklinika Mady Maričić"
+ },
+ {
+  "Id": 2602,
+  "Naziv": "Dom zdravlja Karlovačke županije"
+ },
+ {
+  "Id": 2642,
+  "Naziv": "Dom zdravlja Ličko-senjske županije"
+ },
+ {
+  "Id": 1961,
+  "Naziv": "DOM ZDRAVLJA OSJEČKO-BARANJSKE ŽUPANIJE"
+ },
+ {
+  "Id": 2321,
+  "Naziv": "Dom zdravlja Sisačko-moslavačke županije"
+ },
+ {
+  "Id": 774,
+  "Naziv": "DZ Bjelovarsko-bilogorske županije"
+ },
+ {
+  "Id": 1111,
+  "Naziv": "DZ Čakovec"
+ },
+ {
+  "Id": 1101,
+  "Naziv": "DZ Drniš"
+ },
+ {
+  "Id": 1112,
+  "Naziv": "DZ Dubrovnik"
+ },
+ {
+  "Id": 861,
+  "Naziv": "DZ Knin"
+ },
+ {
+  "Id": 1123,
+  "Naziv": "DZ Koprivničko-križevačke županije"
+ },
+ {
+  "Id": 1102,
+  "Naziv": "DZ Korčula"
+ },
+ {
+  "Id": 1121,
+  "Naziv": "DZ Krapinsko-zagorske županije"
+ },
+ {
+  "Id": 1104,
+  "Naziv": "DZ Metković"
+ },
+ {
+  "Id": 601,
+  "Naziv": "DZ Ministarstva Unutarnjih Poslova "
+ },
+ {
+  "Id": 756,
+  "Naziv": "DZ Nova Gradiška"
+ },
+ {
+  "Id": 1105,
+  "Naziv": "DZ Otočac"
+ },
+ {
+  "Id": 1107,
+  "Naziv": "DZ Ploče"
+ },
+ {
+  "Id": 757,
+  "Naziv": "DZ Požeško-slavonske županije"
+ },
+ {
+  "Id": 643,
+  "Naziv": "DZ Primorsko-goranske županije"
+ },
+ {
+  "Id": 1108,
+  "Naziv": "DZ Senj"
+ },
+ {
+  "Id": 731,
+  "Naziv": "DZ Slavonski Brod"
+ },
+ {
+  "Id": 1021,
+  "Naziv": "DZ Splitsko-dalmatinske županije"
+ },
+ {
+  "Id": 770,
+  "Naziv": "DZ Šibenik"
+ },
+ {
+  "Id": 1122,
+  "Naziv": "DZ Varaždinske županije"
+ },
+ {
+  "Id": 1103,
+  "Naziv": "DZ Vela Luka"
+ },
+ {
+  "Id": 749,
+  "Naziv": "DZ Vinkovci"
+ },
+ {
+  "Id": 751,
+  "Naziv": "DZ Virovitičko podravske županije"
+ },
+ {
+  "Id": 744,
+  "Naziv": "DZ Vukovar"
+ },
+ {
+  "Id": 776,
+  "Naziv": "DZ Zadarske županije"
+ },
+ {
+  "Id": 581,
+  "Naziv": "DZ Zagreb - Centar"
+ },
+ {
+  "Id": 642,
+  "Naziv": "DZ Zagreb - Istok"
+ },
+ {
+  "Id": 641,
+  "Naziv": "DZ Zagreb - Zapad"
+ },
+ {
+  "Id": 775,
+  "Naziv": "DZ Zagrebačke županije"
+ },
+ {
+  "Id": 737,
+  "Naziv": "DZ Županja"
+ },
+ {
+  "Id": 2202,
+  "Naziv": "HRVATSKI ZAVOD ZA JAVNO ZDRAVSTVO"
+ },
+ {
+  "Id": 1210,
+  "Naziv": "ISTARSKI DOMOVI ZDRAVLJA"
+ },
+ {
+  "Id": 261,
+  "Naziv": "KB Dubrava"
+ },
+ {
+  "Id": 302,
+  "Naziv": "KB Merkur"
+ },
+ {
+  "Id": 401,
+  "Naziv": "KB Sveti Duh"
+ },
+ {
+  "Id": 527,
+  "Naziv": "KBC Osijek"
+ },
+ {
+  "Id": 141,
+  "Naziv": "KBC Rijeka"
+ },
+ {
+  "Id": 324,
+  "Naziv": "KBC Sestre milosrdnice"
+ },
+ {
+  "Id": 522,
+  "Naziv": "KBC Split"
+ },
+ {
+  "Id": 281,
+  "Naziv": "KBC Zagreb"
+ },
+ {
+  "Id": 327,
+  "Naziv": "Klinika Dr. Fran Mihaljević"
+ },
+ {
+  "Id": 161,
+  "Naziv": "Klinika Lovran"
+ },
+ {
+  "Id": 528,
+  "Naziv": "Klinika Magdalena"
+ },
+ {
+  "Id": 287,
+  "Naziv": "Klinika Vrapče"
+ },
+ {
+  "Id": 322,
+  "Naziv": "Klinika za dječje bolesti Zagreb"
+ },
+ {
+  "Id": 529,
+  "Naziv": "Lječiliste Bizovačke toplice"
+ },
+ {
+  "Id": 502,
+  "Naziv": "Lječilište Topusko"
+ },
+ {
+  "Id": 164,
+  "Naziv": "Lječilište Veli Lošinj"
+ },
+ {
+  "Id": 1022,
+  "Naziv": "MEDIKOL Čakovec"
+ },
+ {
+  "Id": 1024,
+  "Naziv": "MEDIKOL Osijek"
+ },
+ {
+  "Id": 1025,
+  "Naziv": "MEDIKOL Rijeka"
+ },
+ {
+  "Id": 1023,
+  "Naziv": "MEDIKOL Split"
+ },
+ {
+  "Id": 961,
+  "Naziv": "MEDIKOL Zagreb"
+ },
+ {
+  "Id": 443,
+  "Naziv": "Nacionalna memorijalna bolnica Vukovar"
+ },
+ {
+  "Id": 1261,
+  "Naziv": "Nastavni zavod za javno zdravstvo „Dr. Andrija Štampar“"
+ },
+ {
+  "Id": 483,
+  "Naziv": "OB Bjelovar"
+ },
+ {
+  "Id": 531,
+  "Naziv": "OB Dubrovnik"
+ },
+ {
+  "Id": 41,
+  "Naziv": "OB Gospić"
+ },
+ {
+  "Id": 42,
+  "Naziv": "OB Karlovac"
+ },
+ {
+  "Id": 485,
+  "Naziv": "OB Knin"
+ },
+ {
+  "Id": 81,
+  "Naziv": "OB Koprivnica"
+ },
+ {
+  "Id": 543,
+  "Naziv": "OB Nova Gradiška"
+ },
+ {
+  "Id": 61,
+  "Naziv": "OB Ogulin"
+ },
+ {
+  "Id": 101,
+  "Naziv": "OB Pula"
+ },
+ {
+  "Id": 561,
+  "Naziv": "OB Sisak"
+ },
+ {
+  "Id": 361,
+  "Naziv": "OB Slavonski Brod"
+ },
+ {
+  "Id": 441,
+  "Naziv": "OB Šibensko-kninske županije"
+ },
+ {
+  "Id": 526,
+  "Naziv": "OB Varaždin"
+ },
+ {
+  "Id": 481,
+  "Naziv": "OB Virovitica"
+ },
+ {
+  "Id": 461,
+  "Naziv": "OB Zabok"
+ },
+ {
+  "Id": 163,
+  "Naziv": "OB Zadar"
+ },
+ {
+  "Id": 1941,
+  "Naziv": "Ordinacija oralne kirurgije dr.Begović Elvis Anđelko"
+ },
+ {
+  "Id": 523,
+  "Naziv": "OŽB Našice"
+ },
+ {
+  "Id": 442,
+  "Naziv": "OŽB Pakrac"
+ },
+ {
+  "Id": 421,
+  "Naziv": "OŽB Požega"
+ },
+ {
+  "Id": 521,
+  "Naziv": "OŽB Vinkovci"
+ },
+ {
+  "Id": 901,
+  "Naziv": "P.O. Baračić dr. Sonja - psihijatar"
+ },
+ {
+  "Id": 1220,
+  "Naziv": "P.O. dr.Bruno Zamboni - ortoped"
+ },
+ {
+  "Id": 1229,
+  "Naziv": "P.O.Abramović dr.Đurđica - oftalmolog"
+ },
+ {
+  "Id": 1235,
+  "Naziv": "P.O.Backović-Rudan dr.Biljana - neuropsihijatar"
+ },
+ {
+  "Id": 1187,
+  "Naziv": "P.O.Barbić-Peronja dr.Željka - oftalmolog"
+ },
+ {
+  "Id": 1221,
+  "Naziv": "P.O.Batinić dr.Štefica - oftalmolog"
+ },
+ {
+  "Id": 1217,
+  "Naziv": "P.O.Bosnić dr.Alemka - oftalmolog"
+ },
+ {
+  "Id": 1224,
+  "Naziv": "P.O.Bošnjak-Mijatović dr.Nevenka - specijalist"
+ },
+ {
+  "Id": 1247,
+  "Naziv": "P.O.Burgić dr.Nijaz - specijalist"
+ },
+ {
+  "Id": 962,
+  "Naziv": "P.O.Burić dr.Dinko - internist"
+ },
+ {
+  "Id": 941,
+  "Naziv": "P.O.Bušić dr.Ivan - specijalist"
+ },
+ {
+  "Id": 1241,
+  "Naziv": "P.O.Dobrić dr.Mara - specijalist"
+ },
+ {
+  "Id": 1161,
+  "Naziv": "P.O.El-Zeini dr.Hicham - specijalist"
+ },
+ {
+  "Id": 1190,
+  "Naziv": "P.O.Fabekovec dr.Vesna - dermatovenerolog"
+ },
+ {
+  "Id": 1243,
+  "Naziv": "P.O.Grbac-Budin dr.Branka - oftalmolog"
+ },
+ {
+  "Id": 1162,
+  "Naziv": "P.O.Grgurev dr.Smiljan - specijalist"
+ },
+ {
+  "Id": 1189,
+  "Naziv": "P.O.Ikić dr.Mijo - specijalist"
+ },
+ {
+  "Id": 1238,
+  "Naziv": "P.O.Jelušić dr.Božica - oftalmolog"
+ },
+ {
+  "Id": 1196,
+  "Naziv": "P.O.Jukić dr.Stipe - internist"
+ },
+ {
+  "Id": 1237,
+  "Naziv": "P.O.Jurković Krolo dr.Vesna - psihijatar"
+ },
+ {
+  "Id": 1245,
+  "Naziv": "P.O.Kalšan-Saik dr.Vesna - psihijatar"
+ },
+ {
+  "Id": 1163,
+  "Naziv": "P.O.Kasumović dr.Jasmina - specijalist"
+ },
+ {
+  "Id": 1186,
+  "Naziv": "P.O.Kavelj dr.Ante - oftalmolog"
+ },
+ {
+  "Id": 1215,
+  "Naziv": "P.O.Kišur-Stanušić dr.Ljiljana - neurolog"
+ },
+ {
+  "Id": 1246,
+  "Naziv": "P.O.Križan dr.Daniel - specijalist"
+ },
+ {
+  "Id": 1193,
+  "Naziv": "P.O.Lecher-Švarc dr.Vesna - psihijatar"
+ },
+ {
+  "Id": 1219,
+  "Naziv": "P.O.Lisičak-Ivčec dr.Mirjana - psihijatar"
+ },
+ {
+  "Id": 1233,
+  "Naziv": "P.O.Lučin dr.Vesna - oftalmolog"
+ },
+ {
+  "Id": 1185,
+  "Naziv": "P.O.Margan Šulc dr.Anamarija - internist"
+ },
+ {
+  "Id": 1167,
+  "Naziv": "P.O.Marinović-Remetić dr.Tajana - dermatovenerolog"
+ },
+ {
+  "Id": 1232,
+  "Naziv": "P.O.Mažurana dr.Željko - ortoped"
+ },
+ {
+  "Id": 1228,
+  "Naziv": "P.O.Mendeš dr.Damir - oftalmolog"
+ },
+ {
+  "Id": 1141,
+  "Naziv": "P.O.Mijić dr.Šime - specijalist"
+ },
+ {
+  "Id": 1222,
+  "Naziv": "P.O.Mikulić dr.Nikica - specijalist"
+ },
+ {
+  "Id": 1230,
+  "Naziv": "P.O.Mimica dr.Jadran - oftalmolog"
+ },
+ {
+  "Id": 1191,
+  "Naziv": "P.O.Mitrović mr.sc.Sanja - oftalmolog"
+ },
+ {
+  "Id": 1236,
+  "Naziv": "P.O.Muhlstein dr.Dragana - oftalmolog"
+ },
+ {
+  "Id": 1223,
+  "Naziv": "P.O.Mustaphi dr.El Sabeh - oftalmolog"
+ },
+ {
+  "Id": 1192,
+  "Naziv": "P.O.Nakić-Tošić dr.Sniježana - dermatovenerolog"
+ },
+ {
+  "Id": 1234,
+  "Naziv": "P.O.Pavlović dr.Davor - ortoped"
+ },
+ {
+  "Id": 1195,
+  "Naziv": "P.O.Petrišić Perkušić dr.Lidija - oftalmolog"
+ },
+ {
+  "Id": 1244,
+  "Naziv": "P.O.Podbevšek dr.Jadranka - specijalist"
+ },
+ {
+  "Id": 1218,
+  "Naziv": "P.O.Prpić dr.Vladimir - stomatolog"
+ },
+ {
+  "Id": 1188,
+  "Naziv": "P.O.Radaković dr.Bogdan - internist"
+ },
+ {
+  "Id": 1194,
+  "Naziv": "P.O.Raštegorac dr.Petar - oftalmolog"
+ },
+ {
+  "Id": 1231,
+  "Naziv": "P.O.Skopljak dr.Zlatko - radiolog"
+ },
+ {
+  "Id": 1239,
+  "Naziv": "P.O.Stanić dr.Irena - dermatovenerolog"
+ },
+ {
+  "Id": 1164,
+  "Naziv": "P.O.Stilinović dr.Vlasta - specijalist"
+ },
+ {
+  "Id": 1181,
+  "Naziv": "P.O.Sušnik Vuletić dr.Ivančica - stomatolog"
+ },
+ {
+  "Id": 1166,
+  "Naziv": "P.O.Škrinjarić dr.Ljiljana - psihijatar"
+ },
+ {
+  "Id": 1200,
+  "Naziv": "P.O.Škrobot dr.Renato - specijalist"
+ },
+ {
+  "Id": 1197,
+  "Naziv": "P.O.Šunjić dr.Žarko - specijalist"
+ },
+ {
+  "Id": 1216,
+  "Naziv": "P.O.Vuleta dr.Radivoj - ortoped"
+ },
+ {
+  "Id": 1198,
+  "Naziv": "P.O.Vulje dr.Radmila - specijalist"
+ },
+ {
+  "Id": 162,
+  "Naziv": "PB Lopača"
+ },
+ {
+  "Id": 542,
+  "Naziv": "PB Popovača"
+ },
+ {
+  "Id": 323,
+  "Naziv": "PB Sveti Ivan"
+ },
+ {
+  "Id": 126,
+  "Naziv": "PB Ugljan"
+ },
+ {
+  "Id": 301,
+  "Naziv": "PB za djecu i mladež"
+ },
+ {
+  "Id": 1201,
+  "Naziv": "POL. ZA REHABILITACIJU OSOBA SA SMETNJAMA- SPLIT"
+ },
+ {
+  "Id": 1461,
+  "Naziv": "Poliklinika Adriatic Dent"
+ },
+ {
+  "Id": 1001,
+  "Naziv": "Poliklinika Akadem"
+ },
+ {
+  "Id": 1214,
+  "Naziv": "POLIKLINIKA ARS MEDICA"
+ },
+ {
+  "Id": 2101,
+  "Naziv": "Poliklinika Aviva"
+ },
+ {
+  "Id": 2243,
+  "Naziv": "Poliklinika Croatia - Pula"
+ },
+ {
+  "Id": 2242,
+  "Naziv": "Poliklinika Croatia - Split"
+ },
+ {
+  "Id": 1118,
+  "Naziv": "Poliklinika Croatia - Zagreb"
+ },
+ {
+  "Id": 2141,
+  "Naziv": "Poliklinika Dijagnostika 2000"
+ },
+ {
+  "Id": 1126,
+  "Naziv": "Poliklinika dr. Ercegović"
+ },
+ {
+  "Id": 921,
+  "Naziv": "Poliklinika dr. Nedić, interna medicina"
+ },
+ {
+  "Id": 1129,
+  "Naziv": "Poliklinika dr. Obad"
+ },
+ {
+  "Id": 1206,
+  "Naziv": "POLIKLINIKA DR.BABIĆ"
+ },
+ {
+  "Id": 1205,
+  "Naziv": "POLIKLINIKA DR.RAKIĆ"
+ },
+ {
+  "Id": 816,
+  "Naziv": "Poliklinika FIZIODENT"
+ },
+ {
+  "Id": 2341,
+  "Naziv": "Poliklinika Ghetaldus"
+ },
+ {
+  "Id": 1285,
+  "Naziv": "POLIKLINIKA GHETALDUS, oftalmologija, podružnica Osijek"
+ },
+ {
+  "Id": 1281,
+  "Naziv": "POLIKLINIKA GHETALDUS, oftalmologija, podružnica Slavonski Brod"
+ },
+ {
+  "Id": 1841,
+  "Naziv": "Poliklinika iDENT, ortodoncija"
+ },
+ {
+  "Id": 814,
+  "Naziv": "Poliklinika I-MED"
+ },
+ {
+  "Id": 1212,
+  "Naziv": "POLIKLINIKA JADRAN-OSIGURANJE ZAGREB"
+ },
+ {
+  "Id": 2682,
+  "Naziv": "Poliklinika Jurlina"
+ },
+ {
+  "Id": 2766,
+  "Naziv": "Poliklinika Kelemen Petrović"
+ },
+ {
+  "Id": 1116,
+  "Naziv": "Poliklinika Lacrima"
+ },
+ {
+  "Id": 2301,
+  "Naziv": "Poliklinika Lekić"
+ },
+ {
+  "Id": 2281,
+  "Naziv": "Poliklinika Life"
+ },
+ {
+  "Id": 2381,
+  "Naziv": "Poliklinika Lukšić"
+ },
+ {
+  "Id": 2081,
+  "Naziv": "Poliklinika Maja i Krešimir Čavka"
+ },
+ {
+  "Id": 1681,
+  "Naziv": "Poliklinika Novoselec"
+ },
+ {
+  "Id": 1128,
+  "Naziv": "Poliklinika Oftalma"
+ },
+ {
+  "Id": 1120,
+  "Naziv": "Poliklinika Otos-Vita"
+ },
+ {
+  "Id": 1921,
+  "Naziv": "Poliklinika Perić-Spalato"
+ },
+ {
+  "Id": 1209,
+  "Naziv": "POLIKLINIKA RAUŠ"
+ },
+ {
+  "Id": 1127,
+  "Naziv": "Poliklinika Rehabilitacija Nova"
+ },
+ {
+  "Id": 815,
+  "Naziv": "Poliklinika RIDENT"
+ },
+ {
+  "Id": 1110,
+  "Naziv": "Poliklinika Suvag Karlovac"
+ },
+ {
+  "Id": 1113,
+  "Naziv": "Poliklinika Suvag Osijek"
+ },
+ {
+  "Id": 1184,
+  "Naziv": "POLIKLINIKA SUVAG ZAGREB"
+ },
+ {
+  "Id": 2601,
+  "Naziv": "Poliklinika Sv. Rok"
+ },
+ {
+  "Id": 2522,
+  "Naziv": "Poliklinika Škvorc"
+ },
+ {
+  "Id": 1130,
+  "Naziv": "Poliklinika Tabain"
+ },
+ {
+  "Id": 1204,
+  "Naziv": "POLIKLINIKA TONKOVIĆ"
+ },
+ {
+  "Id": 1207,
+  "Naziv": "POLIKLINIKA VURA"
+ },
+ {
+  "Id": 2742,
+  "Naziv": "POLIKLINIKA ZA BAROMEDICINU I MEDICINU RADA OXY- PULA"
+ },
+ {
+  "Id": 1182,
+  "Naziv": "POLIKLINIKA ZA BOLESTI DIŠNOG SUSTAVA"
+ },
+ {
+  "Id": 1213,
+  "Naziv": "POLIKLINIKA ZA DJEČJE BOLESTI HELENA"
+ },
+ {
+  "Id": 2842,
+  "Naziv": "Poliklinika za fizikalnu med. i reh. Dr. Blaženka Nekić"
+ },
+ {
+  "Id": 1203,
+  "Naziv": "POLIKLINIKA ZA FIZIKALNU MEDICINU I REHABILITACIJU"
+ },
+ {
+  "Id": 828,
+  "Naziv": "Poliklinika za ortodonciju Orthonova"
+ },
+ {
+  "Id": 830,
+  "Naziv": "Poliklinika za ortodonciju Žaja"
+ },
+ {
+  "Id": 1183,
+  "Naziv": "Poliklinika za reumatske bolesti, fiz.medicinu i rehabilitacijui Dr. Drago Čop"
+ },
+ {
+  "Id": 1208,
+  "Naziv": "POLIKLINIKA ZA ZAŠTITU DJECE"
+ },
+ {
+  "Id": 1114,
+  "Naziv": "Poliklinika Zlatni Cekin"
+ },
+ {
+  "Id": 852,
+  "Naziv": "Polikliniku za prevanciju kardiovaskularnih bolesti i rehabilitaciju"
+ },
+ {
+  "Id": 2161,
+  "Naziv": "Poliklinka \"Dr. Ivan Drinković\""
+ },
+ {
+  "Id": 1541,
+  "Naziv": "Poliklinka Dr. Kalajžić"
+ },
+ {
+  "Id": 2021,
+  "Naziv": "Poliklinka prof.dr.sc. Nikša Drinković"
+ },
+ {
+  "Id": 824,
+  "Naziv": "Poliklinka za ortodonciju Dr. Štambuk"
+ },
+ {
+  "Id": 1131,
+  "Naziv": "Polikllinika Vita"
+ },
+ {
+  "Id": 1901,
+  "Naziv": "Polilklinika Marija"
+ },
+ {
+  "Id": 181,
+  "Naziv": "SB Biograd na moru"
+ },
+ {
+  "Id": 524,
+  "Naziv": "SB Biokovka"
+ },
+ {
+  "Id": 493,
+  "Naziv": "SB Daruvarske toplice"
+ },
+ {
+  "Id": 62,
+  "Naziv": "SB Duga Resa"
+ },
+ {
+  "Id": 381,
+  "Naziv": "SB Goljak"
+ },
+ {
+  "Id": 525,
+  "Naziv": "SB Kalos"
+ },
+ {
+  "Id": 530,
+  "Naziv": "SB Krapinske Toplice"
+ },
+ {
+  "Id": 541,
+  "Naziv": "SB Lipik"
+ },
+ {
+  "Id": 341,
+  "Naziv": "SB Naftalan"
+ },
+ {
+  "Id": 201,
+  "Naziv": "SB Rovinj"
+ },
+ {
+  "Id": 482,
+  "Naziv": "SB Stubičke Toplice"
+ },
+ {
+  "Id": 492,
+  "Naziv": "SB Sveti Rafael Strmac"
+ },
+ {
+  "Id": 501,
+  "Naziv": "SB Varaždinske Toplice"
+ },
+ {
+  "Id": 326,
+  "Naziv": "SB za kronične bolesti dječje dobi"
+ },
+ {
+  "Id": 325,
+  "Naziv": "SB za plućne bolesti"
+ },
+ {
+  "Id": 1601,
+  "Naziv": "Spec ord za oralnu kirurgiju Stjepan Siber,dr.med.dent.,spec.oralne kirurgije"
+ },
+ {
+  "Id": 2541,
+  "Naziv": "Spec. Ord. dent.med. za ortodonciju Ana Fistrić Kovačević"
+ },
+ {
+  "Id": 2361,
+  "Naziv": "Spec. Ord. dent.med. za ortodonciju Goran Kursar"
+ },
+ {
+  "Id": 2501,
+  "Naziv": "Spec. Ord. dent.med. za ortodonciju Iva Kutlesa Orosi"
+ },
+ {
+  "Id": 2521,
+  "Naziv": "Spec. Ord. dent.med. za ortodonciju Iva Vinković Rajković"
+ },
+ {
+  "Id": 2421,
+  "Naziv": "Spec. Ord. dent.med. za ortodonciju Marina Šimunović Aničić"
+ },
+ {
+  "Id": 2461,
+  "Naziv": "Spec. Ord. dent.med. za ortodonciju Mateja Petrović"
+ },
+ {
+  "Id": 2481,
+  "Naziv": "Spec. Ord. dent.med. za ortodonciju Željka Pokupec Radin"
+ },
+ {
+  "Id": 2261,
+  "Naziv": "Spec. ord. dentalne medicine za ortodonciju Nikola Pavlec"
+ },
+ {
+  "Id": 2241,
+  "Naziv": "Spec. ord. za ortoodnciju Vjera Perković,dr.med.dent.spec.ort"
+ },
+ {
+  "Id": 2581,
+  "Naziv": "Spec. ord.dent.med. za ortodonciju mr.sc.Kristina Mostarčić Galijaš"
+ },
+ {
+  "Id": 2582,
+  "Naziv": "Spec. ord.dent.med. za ortodonciju mr.sc.Vanja Lazinica"
+ },
+ {
+  "Id": 2401,
+  "Naziv": "Spec.ord. oftalmologije Sandra Hudolin Gonan"
+ },
+ {
+  "Id": 806,
+  "Naziv": "Spec.ord. ortodoncije Ana Parčina"
+ },
+ {
+  "Id": 682,
+  "Naziv": "Spec.ord. ortodoncije Andrea Frajman-Marušić"
+ },
+ {
+  "Id": 762,
+  "Naziv": "Spec.ord. ortodoncije Andreja Novosel Mitar"
+ },
+ {
+  "Id": 1703,
+  "Naziv": "Spec.ord. ortodoncije Ante Prlić"
+ },
+ {
+  "Id": 1721,
+  "Naziv": "Spec.ord. ortodoncije Antonija Kujundžić"
+ },
+ {
+  "Id": 823,
+  "Naziv": "Spec.ord. ortodoncije Antonija Lončar Rogoznica"
+ },
+ {
+  "Id": 714,
+  "Naziv": "Spec.ord. ortodoncije Biserka Relac-Splivalo"
+ },
+ {
+  "Id": 723,
+  "Naziv": "Spec.ord. ortodoncije Danijela Biuk Jagnjić"
+ },
+ {
+  "Id": 1501,
+  "Naziv": "Spec.ord. ortodoncije Darko Pollak"
+ },
+ {
+  "Id": 730,
+  "Naziv": "Spec.ord. ortodoncije Davorin Šimunović"
+ },
+ {
+  "Id": 802,
+  "Naziv": "Spec.ord. ortodoncije Domina Reljanović Protega"
+ },
+ {
+  "Id": 809,
+  "Naziv": "Spec.ord. ortodoncije Dubravka Pilić"
+ },
+ {
+  "Id": 702,
+  "Naziv": "Spec.ord. ortodoncije Đurđica Pik-Fistrić"
+ },
+ {
+  "Id": 821,
+  "Naziv": "Spec.ord. ortodoncije Ebtehaj Navaey"
+ },
+ {
+  "Id": 708,
+  "Naziv": "Spec.ord. ortodoncije Eftikar Duski"
+ },
+ {
+  "Id": 732,
+  "Naziv": "Spec.ord. ortodoncije Erna Geštakovski"
+ },
+ {
+  "Id": 811,
+  "Naziv": "Spec.ord. ortodoncije Filip Praljak"
+ },
+ {
+  "Id": 1641,
+  "Naziv": "Spec.ord. ortodoncije Helena Lapić Maričić"
+ },
+ {
+  "Id": 805,
+  "Naziv": "Spec.ord. ortodoncije Ines Grebenar Fressl"
+ },
+ {
+  "Id": 741,
+  "Naziv": "Spec.ord. ortodoncije Irena Vančura"
+ },
+ {
+  "Id": 727,
+  "Naziv": "Spec.ord. ortodoncije Ivana Ceranić"
+ },
+ {
+  "Id": 822,
+  "Naziv": "Spec.ord. ortodoncije Ivana Muretić Ćatić"
+ },
+ {
+  "Id": 703,
+  "Naziv": "Spec.ord. ortodoncije Ivor Dugalija"
+ },
+ {
+  "Id": 733,
+  "Naziv": "Spec.ord. ortodoncije Jadranka Kovačić"
+ },
+ {
+  "Id": 740,
+  "Naziv": "Spec.ord. ortodoncije Jasna Čotić"
+ },
+ {
+  "Id": 755,
+  "Naziv": "Spec.ord. ortodoncije Jasna Maroslavac"
+ },
+ {
+  "Id": 777,
+  "Naziv": "Spec.ord. ortodoncije Jere Gašperov"
+ },
+ {
+  "Id": 769,
+  "Naziv": "Spec.ord. ortodoncije Josip Gašpar"
+ },
+ {
+  "Id": 1861,
+  "Naziv": "Spec.ord. ortodoncije Josipa Dičak Roguljić"
+ },
+ {
+  "Id": 760,
+  "Naziv": "Spec.ord. ortodoncije Kata Praljak-Klepić"
+ },
+ {
+  "Id": 1621,
+  "Naziv": "Spec.ord. ortodoncije Latić Hodžić Leila"
+ },
+ {
+  "Id": 748,
+  "Naziv": "Spec.ord. ortodoncije Luka Čala"
+ },
+ {
+  "Id": 705,
+  "Naziv": "Spec.ord. ortodoncije Margareta Perinić"
+ },
+ {
+  "Id": 750,
+  "Naziv": "Spec.ord. ortodoncije Marija Gerenčir"
+ },
+ {
+  "Id": 827,
+  "Naziv": "Spec.ord. ortodoncije Marija Sušac"
+ },
+ {
+  "Id": 745,
+  "Naziv": "Spec.ord. ortodoncije Marijana Rinčić Mlinarić"
+ },
+ {
+  "Id": 2722,
+  "Naziv": "Spec.ord. ortodoncije Martina Čalušić Šarac"
+ },
+ {
+  "Id": 803,
+  "Naziv": "Spec.ord. ortodoncije Martina Ivanec Sapunar"
+ },
+ {
+  "Id": 825,
+  "Naziv": "Spec.ord. ortodoncije Martina Kožić"
+ },
+ {
+  "Id": 826,
+  "Naziv": "Spec.ord. ortodoncije Mateja Jelić"
+ },
+ {
+  "Id": 812,
+  "Naziv": "Spec.ord. ortodoncije Mia Peić"
+ },
+ {
+  "Id": 784,
+  "Naziv": "Spec.ord. ortodoncije Mirna  Weber"
+ },
+ {
+  "Id": 753,
+  "Naziv": "Spec.ord. ortodoncije Nataša Golja"
+ },
+ {
+  "Id": 685,
+  "Naziv": "Spec.ord. ortodoncije Nataša Ivošević-Magdalenić"
+ },
+ {
+  "Id": 761,
+  "Naziv": "Spec.ord. ortodoncije Nataša Radica"
+ },
+ {
+  "Id": 701,
+  "Naziv": "Spec.ord. ortodoncije Nataša Zeman"
+ },
+ {
+  "Id": 764,
+  "Naziv": "Spec.ord. ortodoncije Neven Vidović"
+ },
+ {
+  "Id": 713,
+  "Naziv": "Spec.ord. ortodoncije Nevenka Vukušić"
+ },
+ {
+  "Id": 1801,
+  "Naziv": "Spec.ord. ortodoncije Petar Bitanga"
+ },
+ {
+  "Id": 1702,
+  "Naziv": "Spec.ord. ortodoncije Petra Džapo"
+ },
+ {
+  "Id": 801,
+  "Naziv": "Spec.ord. ortodoncije Robert Šalinović"
+ },
+ {
+  "Id": 1561,
+  "Naziv": "Spec.ord. ortodoncije Ružica Majić-Opačak"
+ },
+ {
+  "Id": 1622,
+  "Naziv": "Spec.ord. ortodoncije Ružman Knežević Romana"
+ },
+ {
+  "Id": 2041,
+  "Naziv": "Spec.ord. ortodoncije Sanda Zujović"
+ },
+ {
+  "Id": 1821,
+  "Naziv": "Spec.ord. ortodoncije Sandra Ferri Cetina"
+ },
+ {
+  "Id": 1581,
+  "Naziv": "Spec.ord. ortodoncije Slavica Pejda Repić"
+ },
+ {
+  "Id": 711,
+  "Naziv": "Spec.ord. ortodoncije Sonja Gabrić"
+ },
+ {
+  "Id": 752,
+  "Naziv": "Spec.ord. ortodoncije Srđan Marelić"
+ },
+ {
+  "Id": 804,
+  "Naziv": "Spec.ord. ortodoncije Srećko Jeramaz"
+ },
+ {
+  "Id": 768,
+  "Naziv": "Spec.ord. ortodoncije Stjepan Kondres"
+ },
+ {
+  "Id": 1701,
+  "Naziv": "Spec.ord. ortodoncije Tanja Sikora"
+ },
+ {
+  "Id": 739,
+  "Naziv": "Spec.ord. ortodoncije Tomislav Juras"
+ },
+ {
+  "Id": 767,
+  "Naziv": "Spec.ord. ortodoncije Tomislav Trogrlić"
+ },
+ {
+  "Id": 807,
+  "Naziv": "Spec.ord. ortodoncije Valter Španjić"
+ },
+ {
+  "Id": 782,
+  "Naziv": "Spec.ord. ortodoncije Vice Budimir"
+ },
+ {
+  "Id": 706,
+  "Naziv": "Spec.ord. ortodoncije Vladimir Profeta"
+ },
+ {
+  "Id": 808,
+  "Naziv": "Spec.ord. ortodoncije Vlatka Fuchs-Crčić"
+ },
+ {
+  "Id": 725,
+  "Naziv": "Spec.ord. ortodoncije Zdenka Radović"
+ },
+ {
+  "Id": 683,
+  "Naziv": "Spec.ord. ortodoncije Zoran Čeović"
+ },
+ {
+  "Id": 721,
+  "Naziv": "Spec.ord. ortodoncije Zvjezdana Hautz Quaranta"
+ },
+ {
+  "Id": 759,
+  "Naziv": "Spec.ord. ortodoncije Zvjezdana Šilipetar"
+ },
+ {
+  "Id": 2622,
+  "Naziv": "Spec.ord.dent.med ortodoncije Darko Vukelja,dr.dent.med."
+ },
+ {
+  "Id": 2561,
+  "Naziv": "Spec.ord.dent.med. Ivana Botički, dr.med.dent, spec.oralne kir"
+ },
+ {
+  "Id": 2221,
+  "Naziv": "SPEC.ORD.DENT.MED. ZA ORTODONCIJU ANTE OSTROGONAC"
+ },
+ {
+  "Id": 2764,
+  "Naziv": "Spec.ord.dent.med. za ortodonciju Dunja Stevanović Soldo"
+ },
+ {
+  "Id": 2662,
+  "Naziv": "Spec.ord.dent.med. za ortodonciju Grgurević Vedrana"
+ },
+ {
+  "Id": 2802,
+  "Naziv": "Spec.ord.dent.med. za ortodonciju Jasmina Butorac"
+ },
+ {
+  "Id": 2782,
+  "Naziv": "Spec.ord.dent.med. za ortodonciju Petra Novačić"
+ },
+ {
+  "Id": 2765,
+  "Naziv": "Spec.ord.dent.med. za ortodonciju Tatjana Klarić"
+ },
+ {
+  "Id": 2762,
+  "Naziv": "Spec.ord.dent.med. za ortodonciju Vlatka Plantak"
+ },
+ {
+  "Id": 2663,
+  "Naziv": "Spec.ord.dent.med. za ortodonciju Zrinka"
+ },
+ {
+  "Id": 2702,
+  "Naziv": "Spec.ord.dent.med.za stom.protetiku Ana Sandrić"
+ },
+ {
+  "Id": 2822,
+  "Naziv": "Spec.ord.psihijatrije jasminka Šarić,dr.med.,spec.psih."
+ },
+ {
+  "Id": 1761,
+  "Naziv": "Specijalistička ordinacija dentalne medicine za ortodonciju Nives Klemenčić,dr.med.dent.spec.ortodoncije"
+ },
+ {
+  "Id": 1165,
+  "Naziv": "Specijalistička ordinacija za dermatovenrologiju Vesna Kolar dr.med.spec.dermatovenerolog"
+ },
+ {
+  "Id": 1781,
+  "Naziv": "Specijalistička ordinacija za oralnu kirurgiju - Ivana Uljanić"
+ },
+ {
+  "Id": 1421,
+  "Naziv": "Specijalistička ordinacija za ortodonciju Ana Petrović, dr.med. dent, spec.ortodont"
+ },
+ {
+  "Id": 1041,
+  "Naziv": "Specijalistička psihijatrijska ordinacija Đurđica Sivić"
+ },
+ {
+  "Id": 1227,
+  "Naziv": "Specijalistička psihijatrijska ordinacija Gordana Šikić, dr.med.spec.psihijatar"
+ },
+ {
+  "Id": 1226,
+  "Naziv": "Specijalistička psihijatrijska ordinacija Gordana Varenina, dr.med."
+ },
+ {
+  "Id": 1211,
+  "Naziv": "SPECIJALNA BOLNICA ARITHERA"
+ },
+ {
+  "Id": 2121,
+  "Naziv": "Specijalna bolnica MEDICO"
+ },
+ {
+  "Id": 1119,
+  "Naziv": "Specijalna bolnica Sv. Katarina"
+ },
+ {
+  "Id": 1521,
+  "Naziv": "Specijalna bolnica za kirurgiju i ortopediju AKSIS"
+ },
+ {
+  "Id": 1661,
+  "Naziv": "Stomatološka poliklinika Apolonija"
+ },
+ {
+  "Id": 772,
+  "Naziv": "Stomatološka poliklinika Breyer"
+ },
+ {
+  "Id": 813,
+  "Naziv": "Stomatološka poliklinika Dr. Knežević"
+ },
+ {
+  "Id": 765,
+  "Naziv": "Stomatološka poliklinika Dr. Kostelac"
+ },
+ {
+  "Id": 742,
+  "Naziv": "Stomatološka poliklinika Dr. Legović"
+ },
+ {
+  "Id": 735,
+  "Naziv": "Stomatološka poliklinika Dr. Pavlić"
+ },
+ {
+  "Id": 785,
+  "Naziv": "Stomatološka poliklinika Dr. Percač"
+ },
+ {
+  "Id": 1115,
+  "Naziv": "Stomatološka poliklinika dr. Varnica"
+ },
+ {
+  "Id": 817,
+  "Naziv": "Stomatološka poliklinika Dr. Zubović"
+ },
+ {
+  "Id": 724,
+  "Naziv": "Stomatološka poliklinika Nika"
+ },
+ {
+  "Id": 810,
+  "Naziv": "Stomatološka poliklinika Pavičić Krmpotić"
+ },
+ {
+  "Id": 829,
+  "Naziv": "Stomatološka poliklinika Pevalek-Simeon"
+ },
+ {
+  "Id": 746,
+  "Naziv": "Stomatološka poliklinika Raguž"
+ },
+ {
+  "Id": 722,
+  "Naziv": "Stomatološka poliklinika Split"
+ },
+ {
+  "Id": 621,
+  "Naziv": "Stomatološka Poliklinika Zagreb"
+ },
+ {
+  "Id": 82,
+  "Naziv": "Thalassotherapia Crikvenica"
+ },
+ {
+  "Id": 221,
+  "Naziv": "Thalassotherapia Opatija"
+ },
+ {
+  "Id": 1993,
+  "Naziv": "Zavod Za Hitnu Medicinu Karlovačke Županije"
+ },
+ {
+  "Id": 1992,
+  "Naziv": "Zavod Za Hitnu Medicinu Vukovarsko-Srijemske  Županije"
+ },
+ {
+  "Id": 1988,
+  "Naziv": "Zavod Za Javno Zdravstvo Bjelovarsko-Bilogorske Županije"
+ },
+ {
+  "Id": 1987,
+  "Naziv": "Zavod Za Javno Zdravstvo Brodsko-Posavske  Županije"
+ },
+ {
+  "Id": 2181,
+  "Naziv": "Zavod Za Javno Zdravstvo Dubrovačko-neretvanske županije"
+ },
+ {
+  "Id": 1982,
+  "Naziv": "Zavod Za Javno Zdravstvo Istarske Županije"
+ },
+ {
+  "Id": 1991,
+  "Naziv": "Zavod Za Javno Zdravstvo Karlovačke Županije"
+ },
+ {
+  "Id": 1989,
+  "Naziv": "Zavod Za Javno Zdravstvo Koprivničko-Križevačke  Županije"
+ },
+ {
+  "Id": 2001,
+  "Naziv": "Zavod Za Javno Zdravstvo Krapinsko-Zagorske  Županije"
+ },
+ {
+  "Id": 2002,
+  "Naziv": "Zavod Za Javno Zdravstvo Ličko-Senjske Županije"
+ },
+ {
+  "Id": 1999,
+  "Naziv": "Zavod Za Javno Zdravstvo Međimurske Županije"
+ },
+ {
+  "Id": 1981,
+  "Naziv": "Zavod Za Javno Zdravstvo Osječko-Baranjske  Županije"
+ },
+ {
+  "Id": 2004,
+  "Naziv": "Zavod Za Javno Zdravstvo Požeško-Slavonske  Županije"
+ },
+ {
+  "Id": 1983,
+  "Naziv": "Zavod Za Javno Zdravstvo Primorsko-Goranske  Županije"
+ },
+ {
+  "Id": 1986,
+  "Naziv": "Zavod Za Javno Zdravstvo Sisačko-Moslavačke  Županije"
+ },
+ {
+  "Id": 1984,
+  "Naziv": "Zavod Za Javno Zdravstvo Splitsko-Dalmatinske  Županije"
+ },
+ {
+  "Id": 2000,
+  "Naziv": "Zavod Za Javno Zdravstvo Šibensko-Kninske  Županije"
+ },
+ {
+  "Id": 1990,
+  "Naziv": "Zavod Za Javno Zdravstvo Varaždinske Županije"
+ },
+ {
+  "Id": 1996,
+  "Naziv": "Zavod Za Javno Zdravstvo Virovitičko-Podravske  Županije"
+ },
+ {
+  "Id": 2003,
+  "Naziv": "Zavod Za Javno Zdravstvo Vukovarsko-Srijemske  Županije"
+ },
+ {
+  "Id": 1985,
+  "Naziv": "Zavod Za Javno Zdravstvo Zadarske Županije"
+ },
+ {
+  "Id": 2061,
+  "Naziv": "Zavod za javno zdravstvo Zagrebačke županije"
+ },
+ {
+  "Id": 486,
+  "Naziv": "ŽB Čakovec"
+ },
+ {
+  "Id": 241,
+  "Naziv": "ŽSB Insula"
+ }
+]

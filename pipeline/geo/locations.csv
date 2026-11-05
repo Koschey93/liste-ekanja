@@ -1,0 +1,191 @@
+key,institution,lokacija,town,lat,lon,checked,note
+321,DB Srebrnjak,,Zagreb,45.8144,15.978,1,DB Srebrnjak is in Zagreb
+1961,DOM ZDRAVLJA OSJEČKO-BARANJSKE ŽUPANIJE,,Osijek,45.5507,18.6942,1,auto
+1961|DZ OBŽ - Beli Manastir,DOM ZDRAVLJA OSJEČKO-BARANJSKE ŽUPANIJE,DZ OBŽ - Beli Manastir,Beli Manastir,45.77,18.6036,1,auto
+1961|DZ OBŽ - Đakovo,DOM ZDRAVLJA OSJEČKO-BARANJSKE ŽUPANIJE,DZ OBŽ - Đakovo,Đakovo,45.3083,18.4106,1,auto
+774|DZ BBŽ - ČAZMA,DZ Bjelovarsko-bilogorske županije,DZ BBŽ - ČAZMA,Čazma,45.7482,16.6139,1,auto
+1123|DZ KKŽ KRIŽEVCI,DZ Koprivničko-križevačke županije,DZ KKŽ KRIŽEVCI,Križevci,46.0219,16.5425,1,auto
+1123|DZ KKŽ ĐURĐEVAC,DZ Koprivničko-križevačke županije,DZ KKŽ ĐURĐEVAC,Đurđevac,46.0411,17.0697,1,auto
+1102,DZ Korčula,,Korčula,42.9604,17.1352,1,auto
+1121,DZ Krapinsko-zagorske županije,,Krapina,46.1608,15.8737,1,auto
+1104,DZ Metković,,Metković,43.0542,17.6483,1,auto
+601,DZ Ministarstva Unutarnjih Poslova,,Zagreb,45.8144,15.978,1,manual
+1107,DZ Ploče,,Ploče,42.6406,18.1217,1,manual
+757,DZ Požeško-slavonske županije,,Požega,45.3403,17.6853,1,auto
+643,DZ Primorsko-goranske županije,,Rijeka,45.3267,14.4424,1,auto
+643|DZ PGŽ - DELNICE,DZ Primorsko-goranske županije,DZ PGŽ - DELNICE,Delnice,45.4008,14.7997,1,auto
+643|DZ PGŽ - KRK,DZ Primorsko-goranske županije,DZ PGŽ - KRK,Krk,45.0274,14.5754,1,manual
+643|DZ PGŽ - MALI LOŠINJ,DZ Primorsko-goranske županije,DZ PGŽ - MALI LOŠINJ,Mali Lošinj,44.5306,14.4686,1,auto
+643|DZ PGŽ - RAB,DZ Primorsko-goranske županije,DZ PGŽ - RAB,Rab,44.7569,14.7608,1,manual
+"643|DZ PGŽ – CAMBIERIEVA, RIJEKA",DZ Primorsko-goranske županije,"DZ PGŽ – CAMBIERIEVA, RIJEKA",Rijeka,45.3267,14.4424,1,auto
+643|DZ PGŽ – PARK,DZ Primorsko-goranske županije,DZ PGŽ – PARK,Rijeka,45.3267,14.4424,1,auto
+"643|DZ PGŽ – PEHLIN, RIJEKA",DZ Primorsko-goranske županije,"DZ PGŽ – PEHLIN, RIJEKA",Rijeka,45.3267,14.4424,1,auto
+"643|DZ PGŽ – VEŽICA, RIJEKA",DZ Primorsko-goranske županije,"DZ PGŽ – VEŽICA, RIJEKA",Rijeka,45.3267,14.4424,1,auto
+"643|DZ PGŽ – ZAMET, RIJEKA",DZ Primorsko-goranske županije,"DZ PGŽ – ZAMET, RIJEKA",Rijeka,45.3267,14.4424,1,auto
+"643|DZ PGŽ – ŠKURINJE, RIJEKA",DZ Primorsko-goranske županije,"DZ PGŽ – ŠKURINJE, RIJEKA",Rijeka,45.3267,14.4424,1,auto
+731,DZ Slavonski Brod,,Slavonski Brod,45.1616,18.0163,1,auto
+1021,DZ Splitsko-dalmatinske županije,,Split,43.5089,16.4392,1,auto
+1021|DZ SDŽ DUGI RAT,DZ Splitsko-dalmatinske županije,DZ SDŽ DUGI RAT,Dugi Rat,43.4461,16.6397,1,auto
+1021|DZ SDŽ HVAR,DZ Splitsko-dalmatinske županije,DZ SDŽ HVAR,Hvar,43.1725,16.4428,1,auto
+1021|DZ SDŽ IMOTSKI,DZ Splitsko-dalmatinske županije,DZ SDŽ IMOTSKI,Imotski,43.4467,17.2167,1,auto
+1021|DZ SDŽ JELSA,DZ Splitsko-dalmatinske županije,DZ SDŽ JELSA,Jelsa,43.1614,16.6931,1,auto
+1021|DZ SDŽ K.STARI,DZ Splitsko-dalmatinske županije,DZ SDŽ K.STARI,Kaštel Stari,43.55,16.35,1,manual
+1021|DZ SDŽ MAKARSKA,DZ Splitsko-dalmatinske županije,DZ SDŽ MAKARSKA,Makarska,43.2969,17.0178,1,auto
+"1021|DZ SDŽ OMIŠ, PUT MLIJA 2",DZ Splitsko-dalmatinske županije,"DZ SDŽ OMIŠ, PUT MLIJA 2",Omiš,43.4447,16.6886,1,auto
+"1021|DZ SDŽ OMIŠ, TRG I.RAOSA 1",DZ Splitsko-dalmatinske županije,"DZ SDŽ OMIŠ, TRG I.RAOSA 1",Omiš,43.4447,16.6886,1,auto
+"1021|DZ SDŽ SINJ, PUT MEĐINA 14",DZ Splitsko-dalmatinske županije,"DZ SDŽ SINJ, PUT MEĐINA 14",Sinj,43.7036,16.6394,1,auto
+"1021|DZ SDŽ SINJ, PUT RUDUŠE 26",DZ Splitsko-dalmatinske županije,"DZ SDŽ SINJ, PUT RUDUŠE 26",Sinj,43.7036,16.6394,1,auto
+1021|DZ SDŽ SOLIN,DZ Splitsko-dalmatinske županije,DZ SDŽ SOLIN,Solin,43.5432,16.4931,1,auto
+"1021|DZ SDŽ SPLIT, TRG HBZ 5",DZ Splitsko-dalmatinske županije,"DZ SDŽ SPLIT, TRG HBZ 5",Split,43.5089,16.4392,1,auto
+"1021|DZ SDŽ SPLIT, VUKOVARSKA 8",DZ Splitsko-dalmatinske županije,"DZ SDŽ SPLIT, VUKOVARSKA 8",Split,43.5089,16.4392,1,auto
+1021|DZ SDŽ SUPETAR,DZ Splitsko-dalmatinske županije,DZ SDŽ SUPETAR,Supetar,43.3842,16.5508,1,auto
+1021|DZ SDŽ TROGIR,DZ Splitsko-dalmatinske županije,DZ SDŽ TROGIR,Trogir,43.5125,16.2517,1,auto
+1021|DZ SDŽ VRGORAC,DZ Splitsko-dalmatinske županije,DZ SDŽ VRGORAC,Vrgorac,43.2058,17.3711,1,auto
+1122,DZ Varaždinske županije,,Varaždin,46.3044,16.3378,1,auto
+"581|DZZC, Av. Večeslava Holjevca 22",DZ Zagreb - Centar,"DZZC, Av. Večeslava Holjevca 22",Zagreb,45.8144,15.978,1,auto
+"581|DZZC, Kruge 44",DZ Zagreb - Centar,"DZZC, Kruge 44",Zagreb,45.8144,15.978,1,manual
+"581|DZZC, Runjaninova 4",DZ Zagreb - Centar,"DZZC, Runjaninova 4",Zagreb,45.8144,15.978,1,auto
+642,DZ Zagreb - Istok,,Zagreb,45.8144,15.978,1,auto
+642|DZ ZAGREB ISTOK DUBRAVA,DZ Zagreb - Istok,DZ ZAGREB ISTOK DUBRAVA,Zagreb,45.8144,15.978,1,auto
+642|DZ Zagreb - Istok - punkt 001,DZ Zagreb - Istok,DZ Zagreb - Istok - punkt 001,Zagreb,45.8144,15.978,1,auto
+642|DZ Zagreb - Istok - punkt 003,DZ Zagreb - Istok,DZ Zagreb - Istok - punkt 003,Zagreb,45.8144,15.978,1,auto
+642|Punkt Sesvete,DZ Zagreb - Istok,Punkt Sesvete,Sesvete,45.8311,16.1164,1,auto
+641|DZ ZAGREB ZAPAD TREŠNJEVKA,DZ Zagreb - Zapad,DZ ZAGREB ZAPAD TREŠNJEVKA,Zagreb,45.8144,15.978,1,auto
+641|DZ ZAGREB ZAPAD ČRNOMEREC,DZ Zagreb - Zapad,DZ ZAGREB ZAPAD ČRNOMEREC,Zagreb,45.8144,15.978,1,auto
+641|DZ Zagreb - Zapad - punkt 003,DZ Zagreb - Zapad,DZ Zagreb - Zapad - punkt 003,Zagreb,45.8144,15.978,1,auto
+641|DZ Zagreb - Zapad - punkt 006,DZ Zagreb - Zapad,DZ Zagreb - Zapad - punkt 006,Zagreb,45.8144,15.978,1,auto
+775,DZ Zagrebačke županije,,Samobor,45.8031,15.7181,1,DZ ZGŽ headquarters
+775|DZ ZGŽ DUGO SELO,DZ Zagrebačke županije,DZ ZGŽ DUGO SELO,Dugo Selo,45.8061,16.2444,1,auto
+775|DZ ZGŽ IVANIĆ GRAD,DZ Zagrebačke županije,DZ ZGŽ IVANIĆ GRAD,Ivanić-Grad,45.7083,16.3969,1,auto
+775|DZ ZGŽ SAMOBOR,DZ Zagrebačke županije,DZ ZGŽ SAMOBOR,Samobor,45.8031,15.7181,1,auto
+775|DZ ZGŽ VELIKA GORICA,DZ Zagrebačke županije,DZ ZGŽ VELIKA GORICA,Velika Gorica,45.7125,16.0756,1,auto
+775|DZ ZGŽ ZAPREŠIĆ,DZ Zagrebačke županije,DZ ZGŽ ZAPREŠIĆ,Zaprešić,45.8564,15.8078,1,auto
+775|MOBILNI MAMOGRAF DZ ZGŽ - Gradec,DZ Zagrebačke županije,MOBILNI MAMOGRAF DZ ZGŽ - Gradec,Gradec,45.9111,16.4828,1,manual
+775|MOBILNI MAMOGRAF DZ ZGŽ - Jastrebarsko,DZ Zagrebačke županije,MOBILNI MAMOGRAF DZ ZGŽ - Jastrebarsko,Jastrebarsko,45.6683,15.6486,1,auto
+1111,DZ Čakovec,,Čakovec,46.3844,16.4339,1,auto
+737,DZ Županja,,Županja,45.0775,18.6975,1,auto
+2602,Dom zdravlja Karlovačke županije,,Karlovac,45.4917,15.55,1,auto
+2602|MAMOGRAFIJA 18 SLUNJ,Dom zdravlja Karlovačke županije,MAMOGRAFIJA 18 SLUNJ,Slunj,45.1146,15.5843,1,auto
+2642,Dom zdravlja Ličko-senjske županije,,Gospić,44.5461,15.3747,1,auto
+"2642|NPP_Spec.ord. DZ Ličko-senjske županije, radiologija - Josip Penavić",Dom zdravlja Ličko-senjske županije,"NPP_Spec.ord. DZ Ličko-senjske županije, radiologija - Josip Penavić",Gospić,44.5461,15.3747,1,auto
+2321,Dom zdravlja Sisačko-moslavačke županije,,Sisak,45.4661,16.3775,1,auto
+2321|DZ Kutina,Dom zdravlja Sisačko-moslavačke županije,DZ Kutina,Kutina,45.475,16.7819,1,auto
+2321|Mamografska jedinica - Petrinja,Dom zdravlja Sisačko-moslavačke županije,Mamografska jedinica - Petrinja,Petrinja,45.4375,16.29,1,auto
+2202,HRVATSKI ZAVOD ZA JAVNO ZDRAVSTVO,,Zagreb,45.8144,15.978,1,manual
+1210,ISTARSKI DOMOVI ZDRAVLJA,,Pula,44.8683,13.8481,1,auto
+1210|LABIN - PUNKT007,ISTARSKI DOMOVI ZDRAVLJA,LABIN - PUNKT007,Labin,45.095,14.1197,1,auto
+1210|Mobilni mamograf Novigrad,ISTARSKI DOMOVI ZDRAVLJA,Mobilni mamograf Novigrad,Novigrad,45.315,13.5581,1,auto
+1210|Mobilni mamograf Poreč,ISTARSKI DOMOVI ZDRAVLJA,Mobilni mamograf Poreč,Poreč,45.2257,13.5951,1,auto
+1210|Radiologija – Pazin Jurja Dobrile 5,ISTARSKI DOMOVI ZDRAVLJA,Radiologija – Pazin Jurja Dobrile 5,Pazin,45.2392,13.9395,1,auto
+261,KB Dubrava,,Zagreb,45.8144,15.978,1,KB Dubrava
+302,KB Merkur,,Zagreb,45.8144,15.978,1,auto
+401,KB Sveti Duh,,Zagreb,45.8144,15.978,1,auto
+527,KBC Osijek,,Osijek,45.5507,18.6942,1,auto
+141,KBC Rijeka,,Rijeka,45.3267,14.4424,1,auto
+324,KBC Sestre milosrdnice,,Zagreb,45.8144,15.978,1,auto
+324|KBC SM ILICA,KBC Sestre milosrdnice,KBC SM ILICA,Zagreb,45.8144,15.978,1,auto
+324|KBC SM TRAUMATOLOGIJA,KBC Sestre milosrdnice,KBC SM TRAUMATOLOGIJA,Zagreb,45.8144,15.978,1,auto
+324|KBC SM VINOGRADSKA,KBC Sestre milosrdnice,KBC SM VINOGRADSKA,Zagreb,45.8144,15.978,1,auto
+522,KBC Split,,Split,43.5089,16.4392,1,auto
+522|KBC SPLIT FIRULE,KBC Split,KBC SPLIT FIRULE,Split,43.5089,16.4392,1,auto
+522|KBC SPLIT KRIŽINE,KBC Split,KBC SPLIT KRIŽINE,Split,43.5089,16.4392,1,auto
+522|KBC SPLIT ZAGVOZD,KBC Split,KBC SPLIT ZAGVOZD,Split,43.5089,16.4392,1,auto
+281,KBC Zagreb,,Zagreb,45.8144,15.978,1,auto
+327,Klinika Dr. Fran Mihaljević,,Zagreb,45.8144,15.978,1,manual
+161,Klinika Lovran,,Lovran,45.2919,14.2742,1,auto
+528,Klinika Magdalena,,Krapinske Toplice,46.0933,15.8433,1,manual
+287,Klinika Vrapče,,Zagreb,45.8144,15.978,1,manual
+322,Klinika za dječje bolesti Zagreb,,Zagreb,45.8144,15.978,1,auto
+529,Lječiliste Bizovačke toplice,,Bizovac,45.5928,18.4589,1,manual
+502,Lječilište Topusko,,Topusko,45.2931,15.9722,1,auto
+164,Lječilište Veli Lošinj,,Veli Lošinj,44.5173,14.5048,1,auto
+1024,MEDIKOL Osijek,,Osijek,45.5507,18.6942,1,auto
+1025,MEDIKOL Rijeka,,Rijeka,45.3267,14.4424,1,auto
+1023,MEDIKOL Split,,Split,43.5089,16.4392,1,auto
+961,MEDIKOL Zagreb,,Zagreb,45.8144,15.978,1,auto
+1022,MEDIKOL Čakovec,,Čakovec,46.3844,16.4339,1,auto
+443,Nacionalna memorijalna bolnica Vukovar,,Vukovar,45.3516,19.0023,1,auto
+1261,Nastavni zavod za javno zdravstvo „Dr. Andrija Štampar“,,Zagreb,45.8144,15.978,1,manual
+483,OB Bjelovar,,Bjelovar,45.8979,16.8507,1,auto
+531,OB Dubrovnik,,Dubrovnik,42.6412,18.1091,1,auto
+41,OB Gospić,,Gospić,44.5461,15.3747,1,auto
+42,OB Karlovac,,Karlovac,45.4917,15.55,1,auto
+485,OB Knin,,Knin,44.0406,16.1966,1,auto
+81,OB Koprivnica,,Koprivnica,46.1636,16.8297,1,auto
+543,OB Nova Gradiška,,Nova Gradiška,45.255,17.3831,1,auto
+61,OB Ogulin,,Ogulin,45.2661,15.2286,1,auto
+101,OB Pula,,Pula,44.8683,13.8481,1,auto
+561,OB Sisak,,Sisak,45.4661,16.3775,1,auto
+361,OB Slavonski Brod,,Slavonski Brod,45.1616,18.0163,1,auto
+526,OB Varaždin,,Varaždin,46.3044,16.3378,1,auto
+481,OB Virovitica,,Virovitica,45.8345,17.3855,1,auto
+461,OB Zabok,,Zabok,46.0263,15.9039,1,auto
+163,OB Zadar,,Zadar,44.1158,15.2251,1,auto
+441,OB Šibensko-kninske županije,,Šibenik,43.7343,15.8942,1,auto
+523,OŽB Našice,,Našice,45.4886,18.0878,1,auto
+442,OŽB Pakrac,,Pakrac,45.4364,17.1889,1,auto
+421,OŽB Požega,,Požega,45.3403,17.6853,1,auto
+421|LOKACIJA POŽEGA,OŽB Požega,LOKACIJA POŽEGA,Požega,45.3403,17.6853,1,auto
+521,OŽB Vinkovci,,Vinkovci,45.2883,18.8047,1,auto
+1191,P.O.Mitrović mr.sc.Sanja - oftalmolog,,,,,1,unknown
+1188,P.O.Radaković dr.Bogdan - internist,,,,,1,unknown
+1194,P.O.Raštegorac dr.Petar - oftalmolog,,,,,1,unknown
+162,PB Lopača,,Lopača,45.3779,14.4414,1,manual
+542,PB Popovača,,Popovača,45.5697,16.625,1,auto
+323,PB Sveti Ivan,,Zagreb,45.8144,15.978,1,"PB Sveti Ivan, Jankomir"
+301,PB za djecu i mladež,,Zagreb,45.8144,15.978,1,manual
+1201,POL. ZA REHABILITACIJU OSOBA SA SMETNJAMA- SPLIT,,Split,43.5089,16.4392,1,auto
+1285,"POLIKLINIKA GHETALDUS, oftalmologija, podružnica Osijek",,Osijek,45.5507,18.6942,1,auto
+1184,POLIKLINIKA SUVAG ZAGREB,,Zagreb,45.8144,15.978,1,auto
+1203,POLIKLINIKA ZA FIZIKALNU MEDICINU I REHABILITACIJU,,,,,1,unknown
+1208,POLIKLINIKA ZA ZAŠTITU DJECE,,Zagreb,45.8144,15.978,1,Poliklinika za zaštitu djece grada Zagreba
+1461,Poliklinika Adriatic Dent,,Umag,45.4314,13.5239,1,≈ from phone 052 84x
+1118,Poliklinika Croatia - Zagreb,Poliklinika Croatia - Zagreb,Zagreb,45.8144,15.978,1,auto
+1127,Poliklinika Rehabilitacija Nova,,Zagreb,45.8144,15.978,1,manual
+921,"Poliklinika dr. Nedić, interna medicina",,Virovitica,45.8345,17.3855,1,manual
+1183,"Poliklinika za reumatske bolesti, fiz.medicinu i rehabilitacijui Dr. Drago Čop",,Zagreb,45.8144,15.978,1,manual
+852,Polikliniku za prevanciju kardiovaskularnih bolesti i rehabilitaciju,,Zagreb,45.8144,15.978,1,manual
+2161,"Poliklinka ""Dr. Ivan Drinković""",,Zagreb,45.8144,15.978,1,manual
+181,SB Biograd na moru,,Biograd na Moru,43.9433,15.4519,1,auto
+524,SB Biokovka,,Makarska,43.2969,17.0178,1,manual
+493,SB Daruvarske toplice,,Daruvar,45.5906,17.225,1,manual
+62,SB Duga Resa,,Duga Resa,45.4461,15.4987,1,auto
+381,SB Goljak,,Zagreb,45.8144,15.978,1,SB Goljak
+525,SB Kalos,,Vela Luka,42.9633,16.7225,1,SB Kalos
+530,SB Krapinske Toplice,,Krapinske Toplice,46.0933,15.8433,1,auto
+541,SB Lipik,,Lipik,45.4114,17.1522,1,auto
+341,SB Naftalan,,Ivanić-Grad,45.7083,16.3969,1,manual
+201,SB Rovinj,,Rovinj,45.0827,13.6346,1,auto
+482,SB Stubičke Toplice,,Stubičke Toplice,45.9759,15.9324,1,auto
+492,SB Sveti Rafael Strmac,,Nova Gradiška,45.255,17.3831,1,≈ SB Sv. Rafael is in Strmac near Nova Gradiška
+501,SB Varaždinske Toplice,,Varaždinske Toplice,46.2092,16.4192,1,auto
+325,SB za plućne bolesti,SB za plućne bolesti,Zagreb,45.8144,15.978,1,manual
+2501,Spec. Ord. dent.med. za ortodonciju Iva Kutlesa Orosi,,,,,1,unknown (mobile only)
+2261,Spec. ord. dentalne medicine za ortodonciju Nikola Pavlec,,Varaždin,46.3044,16.3378,1,≈ area code 042
+2582,Spec. ord.dent.med. za ortodonciju mr.sc.Vanja Lazinica,,Rijeka,45.3267,14.4424,1,≈ area code 051
+1501,Spec.ord. ortodoncije Darko Pollak,,Osijek,45.5507,18.6942,1,≈ area code 031
+802,Spec.ord. ortodoncije Domina Reljanović Protega,,Zagreb,45.8144,15.978,1,manual
+708,Spec.ord. ortodoncije Eftikar Duski,,Zagreb,45.8144,15.978,1,manual
+732,Spec.ord. ortodoncije Erna Geštakovski,,Zagreb,45.8144,15.978,1,manual
+805,Spec.ord. ortodoncije Ines Grebenar Fressl,,Zagreb,45.8144,15.978,1,manual
+727,Spec.ord. ortodoncije Ivana Ceranić,,Požega,45.3403,17.6853,1,≈ area code 034
+825,Spec.ord. ortodoncije Martina Kožić,,,,,1,unknown
+784,Spec.ord. ortodoncije Mirna  Weber,,,,,1,unknown
+713,Spec.ord. ortodoncije Nevenka Vukušić,,,,,1,unknown
+1622,Spec.ord. ortodoncije Ružman Knežević Romana,,Zagreb,45.8144,15.978,1,manual
+804,Spec.ord. ortodoncije Srećko Jeramaz,,Metković,43.0542,17.6483,1,≈ phone 020 69x
+782,Spec.ord. ortodoncije Vice Budimir,,Split,43.5089,16.4392,1,≈ area code 021
+808,Spec.ord. ortodoncije Vlatka Fuchs-Crčić,,Krapina,46.1608,15.8737,1,≈ area code 049
+2622,"Spec.ord.dent.med ortodoncije Darko Vukelja,dr.dent.med.",,Karlovac,45.4917,15.55,1,≈ area code 047
+2561,"Spec.ord.dent.med. Ivana Botički, dr.med.dent, spec.oralne kir",,Požega,45.3403,17.6853,1,≈ area code 034
+2702,Spec.ord.dent.med.za stom.protetiku Ana Sandrić,,Pula,44.8683,13.8481,1,≈ from e-mail
+1781,Specijalistička ordinacija za oralnu kirurgiju - Ivana Uljanić,,,,,1,unknown (mobile only)
+1041,Specijalistička psihijatrijska ordinacija Đurđica Sivić,,Zagreb,45.8144,15.978,1,manual
+742,Stomatološka poliklinika Dr. Legović,,Poreč,45.2257,13.5951,1,≈ phone 052 43x
+810,Stomatološka poliklinika Pavičić Krmpotić,,Zagreb,45.8144,15.978,1,manual
+722,Stomatološka poliklinika Split,,Split,43.5089,16.4392,1,auto
+82,Thalassotherapia Crikvenica,,Crikvenica,45.1772,14.6928,1,auto
+221,Thalassotherapia Opatija,,Opatija,45.3366,14.3078,1,auto
+1985,Zavod Za Javno Zdravstvo Zadarske Županije,,Zadar,44.1158,15.2251,1,auto
+486,ŽB Čakovec,,Čakovec,46.3844,16.4339,1,auto
+241,ŽSB Insula,,Rab,44.7569,14.7608,1,"ŽSB Insula, Banjol"
